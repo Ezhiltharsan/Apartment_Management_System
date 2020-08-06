@@ -1,0 +1,3534 @@
+
+
+
+
+
+
+<!doctype html>
+<!--[if IE 9]> <html class="ie9 no-js" lang="en"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-TR94RJ7');</script>
+	<!-- End Google Tag Manager -->
+
+	<!-- start Mixpanel -->
+	<script>
+	  var mixpanel = window.mixpanel = {};
+	  mixpanel.register = mixpanel.register_once = mixpanel.track = mixpanel.track_forms = mixpanel.track_links = function() {console.warn('Mixpanel disabled', args)};
+	</script>
+	<!-- end Mixpanel -->
+
+	
+
+  
+
+	
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#7796a8">
+  <meta name="p:domain_verify" content="cfa66e40ddf9267a341081e4bbb3c9d7"/>
+  <meta name="google-site-verification" content="aUAV9flJAVf4SLpW0R7YF0AQB6KjbEYOjMTWj-EI8Xo" />
+  
+  <link rel="canonical" href="https://shop.ring.com/pages/doorbell-cameras">
+
+  
+
+  
+    <link href="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/favicon.ico?4516" rel="shortcut icon" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/apple-touch-icon.png?4516">
+    <link rel="icon" type="image/png" sizes="32x32" href="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/favicon-32x32.png?4516">
+    <link rel="icon" type="image/png" sizes="16x16" href="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/favicon-16x16.png?4516">
+    <link rel="manifest" href="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/site.webmanifest?4516">
+    <link rel="mask-icon" href="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/safari-pinned-tab.svg?4516" color="#5bbad5">
+    <link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/favicon.ico?4516">
+    <meta name="msapplication-TileColor" content="#2b5797">
+    <meta name="msapplication-config" content="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/browserconfig.xml?4516">
+    <meta name="theme-color" content="#ffffff">
+
+  
+
+    <title>Smart Doorbell Cameras | Video Monitor Your Door
+| Ring</title>
+  
+
+  
+    <meta name="description" content="Monitor who comes to your front door in real-time with Ring Video Doorbells. Features two-way talk, HD video &amp; adjustable motion detection. Works on every home.">
+  
+
+  <!-- SOCIAL META -->
+  <!-- /snippets/social-meta-tags.liquid -->
+<meta property="og:site_name" content="Ring Team">
+<meta property="og:url" content="https://shop.ring.com/pages/doorbell-cameras">
+<meta property="og:title" content="Smart Doorbell Cameras | Video Monitor Your Door">
+<meta property="og:type" content="website">
+<meta property="og:description" content="Monitor who comes to your front door in real-time with Ring Video Doorbells. Features two-way talk, HD video &amp; adjustable motion detection. Works on every home.">
+
+
+<meta name="twitter:site" content="@ring">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Smart Doorbell Cameras | Video Monitor Your Door">
+<meta name="twitter:description" content="Monitor who comes to your front door in real-time with Ring Video Doorbells. Features two-way talk, HD video &amp; adjustable motion detection. Works on every home.">
+  
+
+	
+
+
+
+<link rel="alternate" href="https://ring.com" hreflang="x-default" />
+<link rel="alternate" href="https://shop.ring.com/pages/doorbell-cameras" hreflang="en-us" />
+<link rel="alternate" href="https://shop.ring.com/pages/doorbell-cameras" hreflang="en-ca" />
+<link rel="alternate" href="https://de-de.ring.com/pages/doorbell-cameras" hreflang="de-at" />
+<link rel="alternate" href="https://fr-fr.ring.com/pages/doorbell-cameras" hreflang="fr-be" />
+<link rel="alternate" href="https://eu.ring.com/pages/doorbell-cameras" hreflang="en-bg" />
+<link rel="alternate" href="https://eu.ring.com/pages/doorbell-cameras" hreflang="en-hr" />
+<link rel="alternate" href="https://eu.ring.com/pages/doorbell-cameras" hreflang="en-cy" />
+<link rel="alternate" href="https://eu.ring.com/pages/doorbell-cameras" hreflang="en-cz" />
+<link rel="alternate" href="https://se-en.ring.com/pages/doorbell-cameras" hreflang="en-dk" />
+<link rel="alternate" href="https://eu.ring.com/pages/doorbell-cameras" hreflang="en-ee" />
+<link rel="alternate" href="https://se-en.ring.com/pages/doorbell-cameras" hreflang="en-fi" />
+<link rel="alternate" href="https://fr-fr.ring.com/pages/doorbell-cameras" hreflang="fr-fr" />
+<link rel="alternate" href="https://de-de.ring.com/pages/doorbell-cameras" hreflang="de-de" />
+<link rel="alternate" href="https://eu.ring.com/pages/doorbell-cameras" hreflang="en-gr" />
+<link rel="alternate" href="https://eu.ring.com/pages/doorbell-cameras" hreflang="en-hu" />
+<link rel="alternate" href="https://eu.ring.com/pages/doorbell-cameras" hreflang="en-is" />
+<link rel="alternate" href="https://eu.ring.com/pages/doorbell-cameras" hreflang="en-ie" />
+<link rel="alternate" href="https://eu.ring.com/pages/doorbell-cameras" hreflang="en-it" />
+<link rel="alternate" href="https://eu.ring.com/pages/doorbell-cameras" hreflang="en-lv" />
+<link rel="alternate" href="https://eu.ring.com/pages/doorbell-cameras" hreflang="en-li" />
+<link rel="alternate" href="https://eu.ring.com/pages/doorbell-cameras" hreflang="en-lt" />
+<link rel="alternate" href="https://fr-fr.ring.com/pages/doorbell-cameras" hreflang="fr-lu" />
+<link rel="alternate" href="https://eu.ring.com/pages/doorbell-cameras" hreflang="en-mt" />
+<link rel="alternate" href="https://nl-nl.ring.com/pages/doorbell-cameras" hreflang="nl-nl" />
+<link rel="alternate" href="https://eu.ring.com/pages/doorbell-cameras" hreflang="en-no" />
+<link rel="alternate" href="https://eu.ring.com/pages/doorbell-cameras" hreflang="en-pl" />
+<link rel="alternate" href="https://eu.ring.com/pages/doorbell-cameras" hreflang="en-pt" />
+<link rel="alternate" href="https://eu.ring.com/pages/doorbell-cameras" hreflang="en-ro" />
+<link rel="alternate" href="https://eu.ring.com/pages/doorbell-cameras" hreflang="en-sk" />
+<link rel="alternate" href="https://eu.ring.com/pages/doorbell-cameras" hreflang="en-si" />
+<link rel="alternate" href="https://es-es.ring.com/pages/doorbell-cameras" hreflang="es-es" />
+<link rel="alternate" href="https://se-en.ring.com/pages/doorbell-cameras" hreflang="en-se" />
+<link rel="alternate" href="https://eu.ring.com/pages/doorbell-cameras" hreflang="en-ch" />
+<link rel="alternate" href="https://en-uk.ring.com/pages/doorbell-cameras" hreflang="en-gb" />
+<link rel="alternate" href="https://sa-en.ring.com/pages/doorbell-cameras" hreflang="en-sa" />
+<link rel="alternate" href="https://za-en.ring.com/pages/doorbell-cameras" hreflang="en-za" />
+<link rel="alternate" href="https://ae-en.ring.com/pages/doorbell-cameras" hreflang="en-ae" />
+<link rel="alternate" href="https://au-en.ring.com/pages/doorbell-cameras" hreflang="en-au" />
+<link rel="alternate" href="https://nz-en.ring.com/pages/doorbell-cameras" hreflang="en-nz" />
+<link rel="alternate" href="https://latam-es.ring.com/pages/doorbell-cameras" hreflang="es-ar" />
+<link rel="alternate" href="https://latam-es.ring.com/pages/doorbell-cameras" hreflang="es-co" />
+<link rel="alternate" href="https://latam-es.ring.com/pages/doorbell-cameras" hreflang="es-cl" />
+<link rel="alternate" href="https://latam-es.ring.com/pages/doorbell-cameras" hreflang="es-mx" />
+<link rel="alternate" href="https://latam-es.ring.com/pages/doorbell-cameras" hreflang="es-pa" />
+
+
+  <!-- STYLESHEETS -->
+  
+
+
+
+
+
+
+
+<link rel="preload" as="style" href="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/ring_main.min.css?4516">
+
+
+<link rel="preload"  as="style" href="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/ring.min.css?4516">
+
+
+	
+	<link rel="preload" as="style" href="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/ring_pmp.min.css?4516">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link href="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/equip-reg.css?4516" rel="stylesheet" type="text/css" media="all" />
+<link href="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/equip-light.css?4516" rel="stylesheet" type="text/css" media="all" />
+<link href="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/equip-exlight.css?4516" rel="stylesheet" type="text/css" media="all" />
+<link href="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/equip-med.css?4516" rel="stylesheet" type="text/css" media="all" />
+<link href="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/equip-thin.css?4516" rel="stylesheet" type="text/css" media="all" />
+<link href="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/fontawesome.css?4516" rel="stylesheet" type="text/css" media="all" />
+<link href="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/theme.scss.css?4516" rel="stylesheet" type="text/css" media="all" />
+
+
+
+	<link href="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/ring_main.min.css?4516" rel="stylesheet" type="text/css" media="all" />
+
+
+
+	<link href="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/ring.min.css?4516" rel="stylesheet" type="text/css" media="all" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<link href="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/ring_pmp.min.css?4516" rel="stylesheet" type="text/css" media="all" />
+
+
+
+
+
+
+
+
+
+
+
+  <link href="//fonts.googleapis.com/css?family=Work+Sans:400,700" rel="stylesheet" type="text/css" media="all" />
+
+
+  
+
+    <link href="//fonts.googleapis.com/css?family=Work+Sans:600" rel="stylesheet" type="text/css" media="all" />
+  
+
+
+
+
+  <!-- SCRIPTS -->
+  
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/ring.min.js?4516" type="text/javascript"></script>
+
+
+  <script>
+    var theme = {
+      strings: {
+        addToCart: "Add to cart",
+        soldOut: "Sold out",
+        unavailable: "Unavailable",
+        showMore: "Show More",
+        showLess: "Show Less",
+        addressError: "Error looking up that address",
+        addressNoResults: "No results for that address",
+        addressQueryLimit: "You have exceeded the Google API usage limit. Consider upgrading to a \u003ca href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\"\u003ePremium Plan\u003c\/a\u003e.",
+        authError: "There was a problem authenticating your Google Maps account."
+      },
+      moneyFormat: "${{amount}}"
+    }
+
+    document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+  </script>
+
+  <!--[if (lte IE 9) ]><script src="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/match-media.min.js?4516" type="text/javascript"></script><![endif]-->
+
+  
+
+  <!--[if (gt IE 9)|!(IE)]><!--><script src="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/lazysizes.js?4516" async="async"></script><!--<![endif]-->
+  <!--[if lte IE 9]><script src="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/lazysizes.min.js?4516"></script><![endif]-->
+
+  <!--[if (gt IE 9)|!(IE)]><!--><script src="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/vendor.js?4516" defer="defer"></script><!--<![endif]-->
+  <!--[if lte IE 9]><script src="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/vendor.js?4516"></script><![endif]-->
+
+  <!--[if (gt IE 9)|!(IE)]><!--><script src="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/theme.js?4516" defer="defer"></script><!--<![endif]-->
+  <!--[if lte IE 9]><script src="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/theme.js?4516"></script><![endif]-->
+
+  <script src="https://cdn.optimizely.com/js/3179610124.js"></script>
+
+
+  <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/23938647/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="e6fc4146874e13dee43f180f0f53e429">
+<meta id="in-context-paypal-metadata" data-shop-id="23938647" data-venmo-supported="true" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="USD">
+<meta id="amazon-payments-metadata" data-amazon-payments="true" data-amazon-payments-seller-id="A3E5IT45M3AECD" data-amazon-payments-callback-url="https://shop.ring.com/23938647/amazon_payments/callback" data-amazon-payments-sandbox-mode="false" data-amazon-payments-client-id="amzn1.application-oa2-client.5ffa9ffe31fe4c49be3572e633544e29" data-amazon-payments-region="US" data-amazon-payments-language="en-US" data-amazon-payments-widget-library-url="https://static-na.payments-amazon.com/OffAmazonPayments/us/js/Widgets.js">
+<style media="all">.additional-checkout-button{border:0 !important;border-radius:5px !important;display:inline-block;margin:0 0 10px;padding:0 24px !important;max-width:100%;min-width:150px !important;line-height:44px !important;text-align:center !important}.additional-checkout-button+.additional-checkout-button{margin-left:10px}.additional-checkout-button:last-child{margin-bottom:0}.additional-checkout-button span{font-size:14px !important}.additional-checkout-button img{display:inline-block !important;height:1.3em !important;margin:0 !important;vertical-align:middle !important;width:auto !important}@media (max-width: 500px){.additional-checkout-button{display:block;margin-left:0 !important;padding:0 10px !important;width:100%}}.additional-checkout-button--apple-pay{background-color:#000 !important;color:#fff !important;display:none;font-family:-apple-system, Helvetica Neue, sans-serif !important;min-width:150px !important;white-space:nowrap !important}.additional-checkout-button--apple-pay:hover,.additional-checkout-button--apple-pay:active,.additional-checkout-button--apple-pay:visited{color:#fff !important;text-decoration:none !important}.additional-checkout-button--apple-pay .additional-checkout-button__logo{background:-webkit-named-image(apple-pay-logo-white) center center no-repeat !important;background-size:auto 100% !important;display:inline-block !important;vertical-align:middle !important;width:3em !important;height:1.3em !important}@media (max-width: 500px){.additional-checkout-button--apple-pay{display:none}}.additional-checkout-button--google-pay{line-height:0 !important;padding:0 !important;border-radius:unset !important;width:80px !important}@media (max-width: 500px){.additional-checkout-button--google-pay{width:100% !important}}.gpay-iframe{height:44px !important;width:100%  !important;cursor:pointer;vertical-align:middle !important}.additional-checkout-button--paypal-express{background-color:#ffc439 !important}.additional-checkout-button--paypal,.additional-checkout-button--venmo{vertical-align:top;line-height:0 !important;padding:0 !important}.additional-checkout-button--amazon{background-color:#fad676 !important;position:relative !important}.additional-checkout-button--amazon .additional-checkout-button__logo{-webkit-transform:translateY(4px) !important;transform:translateY(4px) !important}.additional-checkout-button--amazon .alt-payment-list-amazon-button-image{max-height:none !important;opacity:0 !important;position:absolute !important;top:0 !important;left:0 !important;width:100% !important;height:100% !important}.additional-checkout-button-visually-hidden{border:0 !important;clip:rect(0, 0, 0, 0) !important;clip:rect(0 0 0 0) !important;width:1px !important;height:1px !important;margin:-2px !important;overflow:hidden !important;padding:0 !important;position:absolute !important}
+</style>
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":23938647,"countryCode":"US","currencyCode":"USD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/23938647","merchantName":"Ring Team","requiredBillingContactFields":["postalAddress","email","phone"],"requiredShippingContactFields":["postalAddress","email","phone"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex","discover"],"total":{"type":"pending","label":"Ring Team","amount":"1.00"}}</script>
+<script id="shopify-features" type="application/json">{"accessToken":"e6fc4146874e13dee43f180f0f53e429","betas":[],"domain":"shop.ring.com","predictiveSearch":true,"shopId":23938647,"smart_payment_buttons_url":"https:\/\/cdn.shopifycloud.com\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/cdn.shopifycloud.com\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "ring-usa.myshopify.com";
+Shopify.currency = {"active":"USD","rate":"1.0"};
+Shopify.theme = {"name":"Ring","id":202371851,"theme_store_id":796,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};</script>
+<script>window.ShopifyPay = window.ShopifyPay || {};
+window.ShopifyPay.apiHost = "pay.shopify.com";</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["https:\/\/beacon.riskified.com\/?shop=ring-usa.myshopify.com","https:\/\/chimpstatic.com\/mcjs-connected\/js\/users\/ea21d9f8c9608d18a47dae163\/ce886202a0f5bd7aace457759.js?shop=ring-usa.myshopify.com","https:\/\/cdn.bronto.com\/shopify\/integrations\/16eed24b9e464ead0117e0eb7b42a9653c5df7d56d9c263edd84e037a80b4990\/manager.js?shop=ring-usa.myshopify.com","https:\/\/cdn.verifypass.com\/seller\/launcher.js?shop=ring-usa.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":23938647,"offset":-25200,"reqid":"2e4e83ed-a370-4ac5-8777-3cfe1f4935d4","pageurl":"shop.ring.com\/pages\/doorbell-cameras","s":"pages-24932024409","u":"972c1b36e2fe","p":"page","rtyp":"page","rid":24932024409};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'USD';
+var meta = {"page":{"pageType":"page","resourceType":"page","resourceId":24932024409}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  
+};
+</script>
+<script class="analytics">(window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
+
+
+(function () {
+  var customDocumentWrite = function(content) {
+    var jquery = null;
+
+    if (window.jQuery) {
+      jquery = window.jQuery;
+    } else if (window.Checkout && window.Checkout.$) {
+      jquery = window.Checkout.$;
+    }
+
+    if (jquery) {
+      jquery('body').append(content);
+    }
+  };
+
+  var isDuplicatedThankYouPageView = function() {
+    return document.cookie.indexOf('loggedConversion=' + window.location.pathname) !== -1;
+  }
+
+  var setCookieIfThankYouPage = function() {
+    if (window.location.pathname.indexOf('/checkouts') !== -1 &&
+        window.location.pathname.indexOf('/thank_you') !== -1) {
+
+      var twoMonthsFromNow = new Date(Date.now());
+      twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+      document.cookie = 'loggedConversion=' + window.location.pathname + '; expires=' + twoMonthsFromNow;
+    }
+  }
+
+  var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+  if (trekkie.integrations) {
+    return;
+  }
+  trekkie.methods = [
+    'identify',
+    'page',
+    'ready',
+    'track',
+    'trackForm',
+    'trackLink'
+  ];
+  trekkie.factory = function(method) {
+    return function() {
+      var args = Array.prototype.slice.call(arguments);
+      args.unshift(method);
+      trekkie.push(args);
+      return trekkie;
+    };
+  };
+  for (var i = 0; i < trekkie.methods.length; i++) {
+    var key = trekkie.methods[i];
+    trekkie[key] = trekkie.factory(key);
+  }
+  trekkie.load = function(config) {
+    trekkie.config = config;
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.onerror = function(e) {
+      (new Image()).src = '//v.shopify.com/internal_errors/track?error=trekkie_load';
+    };
+    script.async = true;
+    script.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.09.05.1';
+    var first = document.getElementsByTagName('script')[0];
+    first.parentNode.insertBefore(script, first);
+  };
+  trekkie.load(
+    {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":23938647,"isMerchantRequest":null,"themeId":202371851,"themeCityHash":"8780297540482840993","contentLanguage":"en","currency":"USD"}},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":1},"Google Analytics":{"trackingId":"UA-42878528-1","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true},"Facebook Pixel":{"pixelIds":["339573192884846"],"agent":"plshopify1.2"},"Session Attribution":{}}
+  );
+
+  var loaded = false;
+  trekkie.ready(function() {
+    if (loaded) return;
+    loaded = true;
+
+    window.ShopifyAnalytics.lib = window.trekkie;
+    
+      ga('require', 'linker');
+      function addListener(element, type, callback) {
+        if (element.addEventListener) {
+          element.addEventListener(type, callback);
+        }
+        else if (element.attachEvent) {
+          element.attachEvent('on' + type, callback);
+        }
+      }
+      function decorate(event) {
+        event = event || window.event;
+        var target = event.target || event.srcElement;
+        if (target && (target.getAttribute('action') || target.getAttribute('href'))) {
+          ga(function (tracker) {
+            var linkerParam = tracker.get('linkerParam');
+            document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+          });
+        }
+      }
+      addListener(window, 'load', function(){
+        for (var i=0; i < document.forms.length; i++) {
+          var action = document.forms[i].getAttribute('action');
+          if(action && action.indexOf('/cart') >= 0) {
+            addListener(document.forms[i], 'submit', decorate);
+          }
+        }
+        for (var i=0; i < document.links.length; i++) {
+          var href = document.links[i].getAttribute('href');
+          if(href && href.indexOf('/checkout') >= 0) {
+            addListener(document.links[i], 'click', decorate);
+          }
+        }
+      });
+    
+
+    var originalDocumentWrite = document.write;
+    document.write = customDocumentWrite;
+    try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+    document.write = originalDocumentWrite;
+
+    if (!isDuplicatedThankYouPageView()) {
+      setCookieIfThankYouPage();
+      
+        window.ShopifyAnalytics.lib.page(
+          null,
+          {"pageType":"page","resourceType":"page","resourceId":24932024409}
+        );
+      
+      
+    }
+  });
+
+  
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-acf771159f9849ef6e5265782c99efe8b99406214c96a4373224ecafe285d7bb.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+})();</script>
+<script crossorigin="anonymous" defer="defer" src="//cdn.shopify.com/s/assets/shopify_pay/storefront-f95c62afca18778ed8677facd32818c864b5e4938cba1769e8d8ba0b541d41dc.js?v=20190107"></script>
+<script integrity="sha256-qzPTa4Ven/Yc2yyXr9BKZWCTXSrPTCnbGdWsxA7YCw0=" defer="defer" src="//cdn.shopify.com/s/assets/storefront/features-ab33d36b855e9ff61cdb2c97afd04a6560935d2acf4c29db19d5acc40ed80b0d.js" crossorigin="anonymous"></script>
+<script defer="defer" src="//cdn.shopify.com/s/assets/themes_support/ga_urchin_forms-99e991855b3d8ddc69e625c68ab0579dd9927b611c2ec4943d396c72e3af0849.js"></script>
+
+
+<style id="shopify-dynamic-checkout-cart">@media screen and (min-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 50px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 240px;
+  }
+}
+</style>
+<script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+  <div id="shopify-section-geo" class="shopify-section">
+	<script>
+		var storefront = 'ring-usa';
+		var default_co = 'US';
+		if (storefront.indexOf('au') >= 0) {
+			default_co = 'AU';
+		} else if (storefront.indexOf('nz') >= 0) {
+			default_co = 'NZ';
+		}
+		var country = getCookie('rs_geo') ? getCookie('rs_geo') : default_co;
+		var set_country = "";
+
+		if(country != set_country){
+			window.stop();
+			$.ajax({
+				type: 'POST',
+			    url: '/cart.js',
+			    data: {'attributes[user_country]': country},
+			    success: function(d){
+			      window.location.reload();
+			    },
+			    dataType: 'json'
+			  });
+		}
+	</script>
+
+
+
+
+</div>
+</head>
+
+<body class="main-body template-page page_doorbell-cameras collection_ storefront_ring-usa">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TR94RJ7"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	<div id="shopify-section-header" class="shopify-section">
+
+
+
+
+	
+	  <header id='header' data-state='{"loginStatus":false}'></header>
+	
+	<script src="https://site-nav.ring.com/js/ring-wgn.1.0.0.js"></script>
+
+
+
+</div>
+	<div><div class="page_content">
+
+
+
+
+
+
+
+
+
+
+<!-- Product Strip Badges -->
+
+
+
+<div class="pmp_container">
+	<!-- START CONTENT -->
+	<div class="pmp-security-cams">
+
+	   <!-------- HERO SECTION--------><section class="grid_picture_hero">
+  <div class="copy">
+    <h1 data-animate="fade_up">Introducing Our Latest<span class="tablet_float break_mobile"></span>Video Doorbell</h1>
+    <h3 data-animate="fade_up" data-delay="0.25">Now there’s<span class="tablet_float break_mobile"></span>a solution for<span class="tablet_float break_mobile"></span>every home.</h3>
+    
+    <a data-animate="fade_up" data-delay="0.5" href="/products/door-peephole-security-camera"><button class="orange_btn">Shop Now</button></a>
+  </div>
+  <div class="grid_picture_hero-image">
+    <picture>
+      <source media="(max-width: 1023px)" srcset="https://cdn.shopify.com/s/files/1/2486/3626/files/DVC_hero_mobile.jpg?112560" />
+      <img src="https://cdn.shopify.com/s/files/1/2486/3626/files/DVC_hero.jpg?112560" alt="Brighten up your blindspots." />
+    </picture>
+  </div>
+</section>
+<!-------- DOORBELL PRODUCT STRIP--------><section class="grid_pmp_product_list" data-cur="0">
+   <div class="slide left"></div>
+   <div class="list">
+      <ul>
+      
+         
+         
+         <li>
+            <a href="/collections/video-doorbells//products/video-doorbell">
+               
+               <img src="
+https://cdn.shopify.com/s/files/1/2486/3626/files/custom_rvd.png?69616" />
+               <p>Video Doorbell</p>
+            </a>
+         </li>
+         
+      
+         
+         
+         <li>
+            <a href="/collections/video-doorbells//products/video-doorbell-2">
+               
+               <img src="
+https://cdn.shopify.com/s/files/1/2486/3626/files/custom_rvd2.png?69616" />
+               <p>Video Doorbell 2</p>
+            </a>
+         </li>
+         
+      
+         
+         
+         <li>
+            <a href="/collections/video-doorbells//products/video-doorbell-pro">
+               
+               <img src="
+https://cdn.shopify.com/s/files/1/2486/3626/files/custom_rvd-pro.png?69616" />
+               <p>Video Doorbell Pro</p>
+            </a>
+         </li>
+         
+      
+         
+         
+         <li>
+            <a href="/collections/video-doorbells//products/video-doorbell-elite">
+               
+               <img src="
+https://cdn.shopify.com/s/files/1/2486/3626/files/custom_rvde.png?69616" />
+               <p>Video Doorbell Elite</p>
+            </a>
+         </li>
+         
+      
+         
+         
+         <li>
+            <a href="/collections/video-doorbells//products/door-peephole-security-camera">
+               
+                  <div class="badge product-strip product-strip-tag-new">New</div>
+               
+               <img src="
+https://cdn.shopify.com/s/files/1/2486/3626/files/custom_rvd-doorview.png?69616
+" />
+               <p>Peephole Cam</p>
+            </a>
+         </li>
+         
+      
+      </ul>
+   </div>
+   <div class="slide right"></div>
+</section><!-------- SEE WHO'S THERE WITH RING --------><section class="grid_wrapper">
+  <div id="doorbells-slider-1" class="grid_pdp_detail txt_left" data-cur="0">
+     <div>
+        <ul class="images">
+            <li class="active">
+               <picture>
+                  <source media="(max-width: 767px)" srcset="https://cdn.shopify.com/s/files/1/0069/5051/8902/files/pro_02_sq_0953fe1e-61f1-471d-8aa0-5ed3be832ef5.jpg?6027" />
+                  <img src="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/pmp_db_ots_3_2x_1.jpg?10861674717758293090" alt="See who's there with Ring."/>
+               </picture>
+            </li>
+            <li>
+               <picture>
+                  <source media="(max-width: 767px)" srcset="https://cdn.shopify.com/s/files/1/0069/5051/8902/files/rvd2_02_sq_66114165-6536-43d3-9d01-483878630ee2.jpg?6027" />
+                  <img src="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/pmp_db_ots_2_2x_1.jpg?10861674717758293090" alt="See who's there with Ring."/>
+               </picture>
+            </li>
+            <li>
+               <picture>
+                  <source media="(max-width: 767px)" srcset="https://cdn.shopify.com/s/files/1/0069/5051/8902/files/rvd1_02_sq_89a7b832-f37a-47fc-8305-e15bf6b2fcd1.jpg?6027" />
+                  <img src="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/pmp_db_ots_1_2x_1.jpg?10861674717758293090" alt="See who's there with Ring."/>
+               </picture>
+            </li>
+            <li>
+               <picture>
+                  <source media="(max-width: 767px)" srcset="https://cdn.shopify.com/s/files/1/0069/5051/8902/files/elite_02_sq_126aa335-e974-4a05-83e8-18615cefd809.jpg?6027" />
+                  <img src="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/pmp_db_ots_4_2x_1.jpg?10861674717758293090" alt="See who's there with Ring."/>
+               </picture>
+            </li>
+        </ul>
+     </div>
+     <div>
+        <ul class="text">
+           <li class="active">
+              <h2 data-animate="fade_up">See who’s there <br/>with Ring.</h2>
+              <p data-animate="fade_up" data-delay="0.25">Answer the door and check-in on home at anytime from anywhere. Whether you’re in the backyard or halfway around the world, peace of mind is always at your fingertips.</p>
+           </li>
+           <li>
+              <h2 data-animate="fade_up">See who’s there <br/>with Ring.</h2>
+              <p data-animate="fade_up" data-delay="0.25">Answer the door and check-in on home at anytime from anywhere. Whether you’re in the backyard or halfway around the world, peace of mind is always at your fingertips.</p>
+           </li>
+           <li>
+              <h2 data-animate="fade_up">See who’s there <br/>with Ring.</h2>
+              <p data-animate="fade_up" data-delay="0.25">Answer the door and check-in on home at anytime from anywhere. Whether you’re in the backyard or halfway around the world, peace of mind is always at your fingertips.</p>
+           </li>
+           <li>
+              <h2 data-animate="fade_up">See who’s there <br/>with Ring.</h2>
+              <p data-animate="fade_up" data-delay="0.25">Answer the door and check-in on home at anytime from anywhere. Whether you’re in the backyard or halfway around the world, peace of mind is always at your fingertips.</p>
+           </li>
+        </ul>
+        <div class="grid_indicators grid_indicators--4 ">
+  
+    
+      <div class="active"><div></div></div>
+    
+  
+    
+      <div><div></div></div>
+    
+  
+    
+      <div><div></div></div>
+    
+  
+    
+      <div><div></div></div>
+    
+  
+</div>
+
+     </div>
+  </div>
+</section>
+<!-------- HOW IT WORKS -------->   <section class="pmp-how-it-works slider-wrapper">
+      <div>
+         <h2 class="no-margin">How it works</h2>
+
+         <div class="slider-blocks" data-cur="0">
+            <div class="slider-scroller">
+               <ul class="items">
+                  <li class="active light-padding">
+                     <div>
+                        <img class="light-margin" src="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/pmp_db_illus_1_2x_70ae4285-07d9-4616-bb42-a31be1608b0a.png?14305494805167888845" alt="Detect motion."/>
+                        <p><b>Detect motion</b> when people <span class="tablet_float">come to your property.</span></p>
+                     </div>
+                  </li>
+
+                  <li class="light-padding">
+                     <div>
+                        <img class="light-margin" src="https://cdn.shopify.com/s/files/1/0069/5051/8902/files/illustration2_Desktop_2x_1a6892c9-1952-464a-abcf-93a89ba610d1.png?1160674787471710094" alt="Receive notifications."/>
+                        <p><b>Receive notifications</b> on your <span class="tablet_float">phone, tablet or PC.</span></p>
+                     </div>
+                  </li>
+
+                  <li class="light-padding">
+                     <div>
+                        <img class="light-margin" src="https://cdn.shopify.com/s/files/1/2922/1686/files/pmp_db_illus_3.png?16653469807589682972" alt="See, hear and speak."/>
+                        <p><b>See, hear and speak</b> to visitors <span class="tablet_float">in real time from anywhere.</span></p>
+                     </div>
+                  </li>
+               </ul>
+            </div>
+         </div>
+      </div>
+
+		<div class="slider-dots">
+    
+        
+            <div class="active"></div>
+        
+    
+        
+            <div></div>
+        
+    
+        
+            <div></div>
+        
+    
+</div>
+
+    
+   </section>
+<script>
+	var resizeTimer;
+
+    $(window).resize(function(){
+	    clearTimeout(resizeTimer);
+		resizeTimer = setTimeout(function(){
+			smartSize()
+	    }, 500)
+    })
+
+    $('.slider-blocks, .slide_wrapper').on('mousedown touchstart', function (e) {
+        //e.preventDefault();
+        xDown = e.pageX || e.originalEvent.touches[0].pageX;
+    }).on('mouseup touchend',function (e) {
+        xUp = e.pageX || e.originalEvent.changedTouches[0].pageX;
+        if(xDown != xUp && diff(xDown, xUp) > 50){
+            if(xDown > xUp){
+                swipe('left')
+            }else{
+                swipe('right')
+            }
+        }
+    });
+
+    function diff(a,b){return Math.abs(a-b);}
+
+    function swipe(way){
+	     if($(window).width() <= 768){
+		     var active_element = $('.slider-dots').find('.active').index();
+		     var total_elements = $('.slider-dots > div').length;
+
+		     if(way == 'left'){
+			     var new_element = active_element+1;
+			     if(new_element < total_elements){
+				     $('.slider-dots > div').eq(new_element).trigger('click');
+			     }
+		     }else{
+			     var new_element = active_element-1;
+			     if(new_element >= 0){
+				     $('.slider-dots > div').eq(new_element).trigger('click');
+			     }
+		     }
+
+	     }
+    }
+
+    function smartSize(){
+	    if($(window).width() <= 768){
+		    var maxHeight = 0;
+		    $('.items > li > div > p').each(function() {
+			    maxHeight = maxHeight > $(this).outerHeight(true) ? maxHeight : $(this).outerHeight(true);
+				});
+				$('.items > li > div > p').stop(true,true).outerHeight(maxHeight);
+	    }else{
+		    $('.slider-blocks, .slide_wrapper').find('.items').css({ transform: 'translate3d(0px, 0px, 0px)'})
+		    $('.items > li > div > p').stop(true,true).height('auto');
+	    }
+    }
+
+    $('.slider-dots > div').bind({
+        click: function(){
+	        $('.slider-dots > div').removeClass('active');
+        	var ind = $(this).index();
+        	var div = $('.slider-blocks, .slide_wrapper');
+        	$(this).addClass('active');
+        	setSmartSlide(ind, div);
+        }
+    })
+
+	function setSmartSlide(ind, div){
+		$(div).data('cur', ind);
+		smartSlide()
+	}
+
+    function smartSlide(){
+		var pos = $('.slider-blocks, .slide_wrapper').data('cur');
+		var slide_width = $('.slider-blocks, .slide_wrapper').find('.items').outerWidth(true)-50;
+		var x = (-pos * slide_width);
+		$('.slider-blocks, .slide_wrapper').find('.items').css({ transform: 'translate3d('+x+'px, 0px, 0px)'});
+	}
+
+	smartSize();
+</script>
+
+
+	   <!-- PRODUCT LINEUP -->
+
+
+
+
+<section class="grid_wrapper">
+   <div id="doorbells-slider-2" class="grid_pdp_detail has_slide_cta" data-cur="0">
+      <div>
+         <ul class="images">
+             <li class="active">
+                <picture>
+                  <source media="(max-width: 767px)" srcset="https://cdn.shopify.com/s/files/1/2486/3626/files/DVC_sq_18b58411-d153-44a5-8547-b2dd39974c5a.jpg?141484" />
+                  <img src="https://cdn.shopify.com/s/files/1/2486/3626/files/DVC.jpg?113328" alt="There's a Ring for every home."/>
+                </picture>
+             </li>
+            <li>
+               <picture>
+                  <source media="(max-width: 767px)" srcset="https://cdn.shopify.com/s/files/1/0069/5051/8902/files/rvd2_01_sq.jpg?6830" />
+                  <img src="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/pmp_db_faceplates_db2_2x_1.jpg?4439556583126208118" alt="There's a Ring for every home."/>
+               </picture>
+            </li>
+            <li>
+               <picture>
+                  <source media="(max-width: 767px)" srcset="https://cdn.shopify.com/s/files/1/0069/5051/8902/files/pro_01_sq.jpg?6830" />
+                  <img src="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/pmp_db_faceplates_dbpro_2x_1.jpg?4439556583126208118" alt="There's a Ring for every home."/>
+               </picture>
+            </li>
+            <li>
+              <picture>
+                <source media="(max-width: 767px)" srcset="https://cdn.shopify.com/s/files/1/0069/5051/8902/files/elite_01_sq.jpg?6830" />
+                <img src="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/pmp_db_faceplates_dbelite_2x_1.jpg?4439556583126208118" alt="There's a Ring for every home."/>
+              </picture>
+            </li>
+            <li>
+              <picture>
+                <source media="(max-width: 767px)" srcset="https://cdn.shopify.com/s/files/1/0069/5051/8902/files/rvd1_01_sq.jpg?6830" />
+                <img src="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/pmp_db_faceplates_db1_2x_1.jpg?4439556583126208118" alt="There's a Ring for every home."/>
+              </picture>
+            </li>
+         </ul>
+      </div>
+      <div>
+         <ul class="text">
+            <li class="active">
+               <h2 data-animate="fade_up">Peephole <span class="mobile_float"></span> Camera</h2>
+               <p data-animate="fade_up" data-delay="0.25">Replace your peephole with smart security, and find the perfect solution for apartments, homes, townhouses and more.</p>
+
+                <div class="pmp-benefits has_cta" data-animate="fade_up" data-delay="0.25">
+                  <div class="pmp-benefit"><span class="db-hd-video icon"></span> <span class="label">1080p HD Video</span></div>
+                  <div class="pmp-benefit"><span class="db-battery icon"></span> <span class="label">Rechargeable <span class="mobile_float"></span>Battery Pack</span></div>
+                  <div class="pmp-benefit"><span class="db-sensitivity icon"></span> <span class="label">Impact Sensor</span></div>
+                  <div class="pmp-benefit"><span class="db-easyinstallation icon"></span> <span class="label">Easy Installation <span class="mobile_float"></span>Through Peephole</span></div>
+                </div>
+
+                <a class="plp_button" data-animate="fade_up" data-delay="0.25" href="/products/door-peephole-security-camera">
+                  <button>Learn More</button>
+                </a>
+
+            </li>
+            <li>
+               <h2 data-animate="fade_up">Video <span class="mobile_float"></span>Doorbell 2</h2>
+               <p data-animate="fade_up" data-delay="0.25">Enjoy next-generation security and convenience with a doorbell that comes with a removable battery pack and works on any home.</p>
+
+                <div class="pmp-benefits has_cta" data-animate="fade_up" data-delay="0.25">
+                  <div class="pmp-benefit"><span class="db-hd-video icon"></span> <span class="label">1080p HD Video</span></div>
+                  <div class="pmp-benefit"><span class="db-battery icon"></span> <span class="label">Rechargeable <span class="mobile_float"></span>Battery Pack</span></div>
+                  <div class="pmp-benefit"><span class="db-impactsensor icon"></span> <span class="label">Adjustable Motion <span class="mobile_float"></span>Detection</span></div>
+                  <div class="pmp-benefit"><span class="db-worksanyhome icon"></span> <span class="label">Works on Any Home</span></div>
+                </div>
+
+                <a class="plp_button" data-animate="fade_up" data-delay="0.25" href="/products/video-doorbell-2">
+                  <button>Learn More</button>
+                </a>
+
+            </li>
+            <li>
+               <h2 data-animate="fade_up">Video <span class="mobile_float"></span>Doorbell Pro</h2>
+               <p data-animate="fade_up" data-delay="0.25">Experience advanced features for enhanced security, and connect to existing doorbell wires for nonstop charge and protection.</p>
+
+                <div class="pmp-benefits has_cta" data-animate="fade_up" data-delay="0.25">
+                  <div class="pmp-benefit"><span class="db-hd-video icon"></span> <span class="label">1080p HD Video</span></div>
+                  <div class="pmp-benefit"><span class="db-nonstoppower icon"></span> <span class="label">Nonstop Power</span></div>
+                  <div class="pmp-benefit"><span class="db-impactsensor icon"></span> <span class="label">Customizable Motion <span class="mobile_float"></span>Detection</span></div>
+                  <div class="pmp-benefit"><span class="db-easyinstallation icon"></span> <span class="label">Hardwired <span class="mobile_float"></span>Installation</span></div>
+                </div>
+
+                <a class="plp_button" data-animate="fade_up" data-delay="0.25" href="/products/video-doorbell-pro"><button>Learn More</button></a>
+
+            </li>
+            <li>
+               <h2 data-animate="fade_up">Video <span class="mobile_float"></span>Doorbell Elite</h2>
+               <p data-animate="fade_up" data-delay="0.25">Get even more with our most advanced doorbell yet, featuring Power over Ethernet for a reliable charge and connection.</p>
+
+                <div class="pmp-benefits has_cta" data-animate="fade_up" data-delay="0.25">
+                  <div class="pmp-benefit"><span class="db-hd-video icon"></span> <span class="label">1080p HD Video</span></div>
+                  <div class="pmp-benefit"><span class="db-nonstoppower icon"></span> <span class="label">PoE Enabled</span></div>
+                  <div class="pmp-benefit"><span class="db-impactsensor icon"></span> <span class="label">Customizable <span class="mobile_float"></span>Motion Detection</span></div>
+                  <div class="pmp-benefit"><span class="db-easyinstallation icon"></span> <span class="label">Hardwired <span class="mobile_float"></span>Installation</span></div>
+                </div>
+
+                <a class="plp_button" data-animate="fade_up" data-delay="0.25" href="/products/video-doorbell-elite"><button>Learn More</button></a>
+
+            </li>
+            <li>
+               <h2 data-animate="fade_up">Video <span class="mobile_float"></span>Doorbell</h2>
+               <p data-animate="fade_up" data-delay="0.25">The original video doorbell that works on any home, for any budget and lets you see who’s there from anywhere.</p>
+
+                <div class="pmp-benefits has_cta" data-animate="fade_up" data-delay="0.25">
+                  <div class="pmp-benefit"><span class="db-hd-video icon"></span> <span class="label">720p HD Video</span></div>
+                  <div class="pmp-benefit"><span class="db-battery icon"></span> <span class="label">Built-In Rechargeable Battery</span></div>
+                  <div class="pmp-benefit"><span class="db-impactsensor icon"></span> <span class="label">Adjustable Motion Detection</span></div>
+                  <div class="pmp-benefit"><span class="db-worksanyhome icon"></span> <span class="label">Works on Any Home</span></div>
+                </div>
+
+                <a class="plp_button" data-animate="fade_up" data-delay="0.25" href="/products/video-doorbell"><button>Learn More</button></a>
+
+            </li>
+         </ul>
+
+         <div class="grid_indicators grid_indicators--5 ">
+  
+    
+      <div class="active"><div></div></div>
+    
+  
+    
+      <div><div></div></div>
+    
+  
+    
+      <div><div></div></div>
+    
+  
+    
+      <div><div></div></div>
+    
+  
+    
+      <div><div></div></div>
+    
+  
+</div>
+
+
+      </div>
+   </div>
+</section>
+<!-------- TESTIMONIALS -------->
+
+
+
+<section class="pmp-testimonials" style="clear: both;">
+  
+   <div class="media">
+      <h3>See the power of Ring in action.</h3>
+   </div>
+   <div class="media">
+      <ul class="animation-headers">
+         <li class="animation-header active" data-testimonial="stop-crime" onclick="showStopCrime()">Stop Crime in Its Tracks</li>
+         <li class="animation-header" data-testimonial="stay-connected" onclick="showConnectedVideo()">Stay Connected to Home</li>
+      </ul>
+   </div>
+   <section class="doorbells-cams-in-action" style="clear: both; text-align: center;">
+      <div class="video-block desktop_only" style="width: 65%;" data-testimonial="stop-crime">
+         <video id="cams-ugc-video" muted="" autoplay="autoplay" plays-inline="">
+            <source type="video/mp4" src="https://cdn.shopify.com/s/files/1/0069/5051/8902/files/Stop_Crime_in_Its_Tracks_Revised.mp4?135687" />
+         </video>
+         <div class="overlay"></div>
+         <div class="mute-btn"></div>
+         <div class="unmute-btn"></div>
+      </div>
+      <div class="video-block desktop_only" style="width: 65%;" data-testimonial="stay-connected">
+         <video id="stay-connected-video" style="display: none;">
+            <source type="video/mp4" src="https://cdn.shopify.com/s/files/1/0069/5051/8902/files/Stay_Connected_to_Home_850_428.mp4?135687" />
+         </video>
+         <div class="overlay"></div>
+         <div class="mute-btn"></div>
+         <div class="unmute-btn"></div>
+      </div>
+      <div class="video-block no_desktop2">
+         <video id="cams-ugc-video-mobile" poster="https://cdn.shopify.com/s/files/1/0069/5051/8902/files/DB_StopCrime_mobile.jpg?135889">
+            <source type="video/mp4" src="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/Stop_Crime_in_Its_Tracks.mp4?6771440656194932804" />
+         </video>
+         <div class="overlay" style="left: 5%; width: 90%;"></div>
+         <img id="cams-ugc-video-play-btn" class="play-btn" src="https://cdn.shopify.com/s/files/1/0069/5051/8902/files/play.png?11295603344875485989" />
+      </div>
+      <div class="video-block no_desktop2">
+         <video id="stay-connected-video-mobile" style="display: none;" poster="https://cdn.shopify.com/s/files/1/0069/5051/8902/files/DB_StayConnected_mobile.jpg?135889">
+            <source type="video/mp4" src="https://cdn.shopify.com/s/files/1/2486/3626/files/Stay_Connected_to_Home_850_428.mp4?145802" />
+         </video>
+         <div class="overlay" style="left: 5%; width: 90%;"></div>
+         <img id="stay-connected-video-play-btn" class="play-btn" src="https://cdn.shopify.com/s/files/1/0069/5051/8902/files/play.png?11295603344875485989" style="display: none;" />
+      </div>
+   </section>
+   <br />
+   
+   <div class="media">
+      <h3>Kind words from happy neighbors.</h3>
+   </div>
+   <div class="media">
+      <ul class="testimonials-headers">
+         <li class="testimonial-header" data-testimonial="crime">Crime</li>
+         <li class="testimonial-header active" data-testimonial="convenience">Convenience</li>
+         <li class="testimonial-header" data-testimonial="safety">Safety</li>
+         <li class="testimonial-header" data-testimonial="installation">Installation</li>
+      </ul>
+   </div>
+   <div class="testimonials-wrapper">
+      <div class="testimonials" data-testimonial="crime">
+         <div class="testimonials-container">
+            <div class="testimonial">
+               <div class="quote"><q>Thieves immediately notice the Ring Video Doorbell Camera, which stops them dead in their tracks.</q></div>
+               <div class="name">Jason W <br />Fox Crossing Police Department</div>
+            </div>
+            <div class="testimonial">
+               <div class="quote"><q>Ring has aided in our efforts to prevent package thefts.</q></div>
+               <div class="name">Rick M <br />Ft. Lauderdale Police Chief</div>
+            </div>
+            <div class="testimonial">
+               <div class="quote"><q>Today I was able to show the police a video of a package that was stolen right off my doorstep. This experience alone paid for the doorbell.</q></div>
+               <div class="name">Liz</div>
+            </div>
+            <div class="testimonial">
+               <div class="quote"><q>Our packages aren’t stolen anymore, especially after we caught a man groping for them in our mailbox.</q></div>
+               <div class="name">Paul</div>
+            </div>
+            <div class="testimonial">
+               <div class="quote"><q>I had mail and packages stolen from my property. Thanks to Ring and our local PD, they were caught within hours.</q></div>
+               <div class="name">Megan</div>
+            </div>
+         </div>
+      </div>
+      <div class="testimonials active" data-testimonial="convenience">
+         <div class="testimonials-container">
+            <div class="testimonial">
+               <div class="quote"><q>It’s like Christmas every day. I get to see who comes up to my door when no one is home.</q></div>
+               <div class="name">Martin</div>
+            </div>
+            <div class="testimonial">
+               <div class="quote"><q>The Ring device allows me to see who’s coming to my house when I’m not there.</q></div>
+               <div class="name">Amazon Customer</div>
+            </div>
+            <div class="testimonial">
+               <div class="quote"><q>These devices allow you to do the impossible — be in two or more places at one time!</q></div>
+               <div class="name">Amazon Customer</div>
+            </div>
+            <div class="testimonial">
+               <div class="quote"><q>Sometimes I answer the door from my third floor office, without having to run down to the front door. With packages that need signatures, this is a huge help.</q></div>
+               <div class="name">Julie</div>
+            </div>
+            <div class="testimonial">
+               <div class="quote"><q>Any of us can see what’s going on at any given time. Well worth the purchase!</q></div>
+               <div class="name">Sadie</div>
+            </div>
+         </div>
+      </div>
+      <div class="testimonials" data-testimonial="safety">
+         <div class="testimonials-container">
+            <div class="testimonial">
+               <div class="quote"><q>Thieves immediately notice the Ring Video Doorbell Camera, which stops them dead in their tracks.</q></div>
+               <div class="name">Jason W <br /> Fox Crossing Police Department</div>
+            </div>
+            <div class="testimonial">
+               <div class="quote"><q>The Ring device allows me to see who’s coming to my house when I’m not there.</q></div>
+               <div class="name">Amazon Customer</div>
+            </div>
+            <div class="testimonial">
+               <div class="quote"><q>Any of us can see what’s going on at any given time. Well worth the purchase!</q></div>
+               <div class="name">Sadie</div>
+            </div>
+            <div class="testimonial">
+               <div class="quote"><q>I absolutely love this doorbell. It has changed the way I monitor my house and makes me feel safe even when I’m away from home. Amazing product.</q></div>
+               <div class="name">Amazon Customer</div>
+            </div>
+            <div class="testimonial">
+               <div class="quote"><q>I feel so safe now that both of my sons can check on the house at anytime. I would never go back to an old fashioned doorbell!</q></div>
+               <div class="name">Susan</div>
+            </div>
+         </div>
+      </div>
+      <div class="testimonials" data-testimonial="installation">
+         <div class="testimonials-container">
+            <div class="testimonial">
+               <div class="quote"><q>Was able to install them and get them working with a couple hours. I’m 68 years old, so if I can do it, ANYBODY can do it!</q></div>
+               <div class="name">Dot</div>
+            </div>
+            <div class="testimonial">
+               <div class="quote"><q>It literally took me all of 15 minutes to install the amazing gadget!</q></div>
+               <div class="name">Julie</div>
+            </div>
+            <div class="testimonial">
+               <div class="quote"><q>I installed Ring. It was simple as simple can be. Maybe 10 minutes.</q></div>
+               <div class="name">Theresa</div>
+            </div>
+            <div class="testimonial">
+               <div class="quote"><q>It was easy to connect to my wifi and very easy to install. The directions are clear and simple, the best I've seen on a product like this.</q></div>
+               <div class="name">Carol</div>
+            </div>
+            <div class="testimonial">
+               <div class="quote"><q>First off every part imaginable came with the product in a well laid out package which made installation a breeze. It took less than 5 minutes to configure the Doorbell.</q></div>
+               <div class="name">Thomas</div>
+            </div>
+         </div>
+      </div>
+      <div class="right" ><svg width="12px" height="22px" viewBox="0 0 12 22">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <polyline stroke-width="2" fill-rule="nonzero" points="1 1 10.717041 10.717041 1 20.434082"></polyline>
+    </g>
+</svg>
+</div>
+      <div class="left" ><svg width="12px" height="22px" viewBox="0 0 12 22">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <polyline stroke-width="2" fill-rule="nonzero" points="1 1 10.717041 10.717041 1 20.434082"></polyline>
+    </g>
+</svg>
+</div>
+   </div>
+</section><!-- Testimonials Section Scripts -->
+<script type="text/javascript">
+  $('.testimonial-header').click(function(e){
+      let category = $(e.target).attr('data-testimonial');
+      $('.testimonial-header').removeClass('active');
+      $('.testimonials-headers').find('[data-testimonial="'+category+'"]').addClass('active');
+      $('.testimonials').removeClass('active');
+      $('.testimonials-wrapper').find('[data-testimonial="'+category+'"]').addClass('active');
+  });
+  $('.pmp-testimonials .testimonials').hover(function(e){
+      let active_testimonials = ($('.testimonials.active').find('.testimonials-container'))[0];
+      if (active_testimonials.scrollWidth > active_testimonials.clientWidth) {
+          $('.testimonials-wrapper').find('.right').show();
+      } else {
+          $('.testimonials-wrapper').find('.right').hide();
+      }
+      if (parseInt($('.testimonials.active')[0].style.marginLeft) < 0) {
+          $('.testimonials-wrapper').find('.left').show();
+      } else {
+          $('.testimonials-wrapper').find('.left').hide();
+      }
+      if ($(window).width() < 768) {
+          $('.testimonials-wrapper').find('.left').hide();
+          $('.testimonials-wrapper').find('.right').hide();
+      }
+  });
+  $('.testimonials-wrapper .right').click(function() {
+      let active_testimonials = $('.testimonials.active');
+      if (active_testimonials[0].clientWidth < (active_testimonials.find('.testimonials-container'))[0].scrollWidth) {
+          let testimonial_width = active_testimonials.find('.testimonial').outerWidth();
+          let testimonials_wrapper_width = $('.testimonials-wrapper').width();
+          let num_cards_to_move = parseInt(testimonials_wrapper_width / testimonial_width) - 2;
+          cur_left = parseInt(active_testimonials[0].style.marginLeft);
+          if (!cur_left) {cur_left = 0;}
+          active_testimonials[0].style.marginLeft = (cur_left - (testimonial_width * num_cards_to_move)) + 'px';
+      }
+  });
+  $('.testimonials-wrapper .left').click(function() {
+      let active_testimonials = $('.testimonials.active');
+      if (parseInt(active_testimonials[0].style.marginLeft) < 0) {
+          let testimonial_width = active_testimonials.find('.testimonial').outerWidth();
+          let testimonials_wrapper_width = $('.testimonials-wrapper').width();
+          let num_cards_to_move = parseInt(testimonials_wrapper_width / testimonial_width) - 2;
+          cur_left = parseInt(active_testimonials[0].style.marginLeft);
+          if (!cur_left) {cur_left = 0;}
+          active_testimonials[0].style.marginLeft = (cur_left + (testimonial_width * num_cards_to_move)) + 'px';
+      }
+  });
+</script><!-- Normalize Elements Script -->
+<script type="text/javascript">
+  function normalizeElementsMinHeight(elementsToNormalize) {
+    var elementsHeight = [];
+    $(elementsToNormalize).each(function() {
+      elementsHeight.push($(this).outerHeight());
+    });
+    var elementsMinHeight = Math.max.apply(null, elementsHeight);
+    $(elementsToNormalize).css({minHeight: elementsMinHeight});
+  }
+  normalizeElementsMinHeight('.testimonials-wrapper .testimonial');
+</script>
+<!-------- AN EXTRA LAYER OF PROTECTION  -------->
+	   <section class="grid_wrapper">
+	<div class="grid_pdp_detail">
+		<div>
+		<picture>
+      <source media="(max-width: 767px)" srcset="https://cdn.shopify.com/s/files/1/0069/5051/8902/files/protect_sq.jpg?6830" />
+			<img src="https://cdn.shopify.com/s/files/1/0019/7863/0214/files/protectPlan_Desktop_2x_530d704f-0ac2-4eb2-8b71-d76c2448e175.jpg?15268" alt="An extra layer of protection."/>
+		</picture>
+		</div>
+		<div>
+		<h2 data-animate="fade_up">An extra layer <br/>of protection.</h2>
+		<p data-animate="fade_up" data-delay="0.25">Record, review and share your videos with <span class="mobile_float"></span>Ring Protect Plans.</p>
+		<div data-animate="fade_up" class="icons-block">
+			<div>
+				<div class="icon-block">
+					<div class="icon-img"><span class="calender icon"></span></div>
+					<div class="icon-img-desc">Enjoy a free 30-day trial of our Ring Protect Plan.</div>
+				</div>
+				<div class="icon-block">
+					<div class="icon-img"><span class="record icon"></span></div>
+					<div class="icon-img-desc">Get video recording and sharing for as low as $3 a month after your trial.</div>
+				</div>
+				<div class="icon-block">
+					<div class="icon-img"><span class="infinity icon"></span></div>
+					<div class="icon-img-desc">Upgrade to a Ring Protect Plus Plan to cover unlimited Doorbells and Cameras for only $10 a month.</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+		 <!-------- ALEXA  -------->
+
+
+
+
+<section class="grid_wrapper">
+   <div id="alexa-slides-1" class="grid_pdp_detail txt_left" data-cur="0">
+      <div>
+         <ul class="images">
+           <li class="active">
+             <picture>
+         			<source media="(max-width: 1023px)" srcset="https://cdn.shopify.com/s/files/1/2486/3626/files/Alexa_01_sq.jpg?113987" />
+         			<img src="https://cdn.shopify.com/s/files/1/2486/3626/files/Alexa_01.jpg?113987" alt="Alexa, show me my Peephole Camera."/>
+         		</picture>
+           </li>
+            <li>
+               <picture>
+           			<source media="(max-width: 1023px)" srcset="https://cdn.shopify.com/s/files/1/2486/3626/files/Alexa_02_sq.jpg?113987" />
+           			<img src="https://cdn.shopify.com/s/files/1/2486/3626/files/Alexa_02.jpg?113987" alt="Someone is at your front door."/>
+           		</picture>
+            </li>
+            <li>
+              <picture>
+          			<source media="(max-width: 1023px)" srcset="https://cdn.shopify.com/s/files/1/2486/3626/files/Alexa_03_sq.jpg?113987" />
+          			<img src="https://cdn.shopify.com/s/files/1/2486/3626/files/Alexa_03.jpg?113987" alt="Alexa, activate nighttime mode."/>
+          		</picture>
+            </li>
+         </ul>
+      </div>
+      <div>
+         <ul class="text">
+            <li class="active">
+               <h2 data-animate="fade_up">“Alexa, show <span class="mobile_float"></span>me my Peephole <span class="mobile_float"></span> Camera.”</h2>
+               <p data-animate="fade_up" data-delay="0.25">Receive indoor notifications from Alexa and launch real-time video with select Echo and Fire TV devices.</p>
+            </li>
+            <li>
+               <h2 data-animate="fade_up">“Someone is at <span class="mobile_float"></span>your front door.”</h2>
+               <p data-animate="fade_up" data-delay="0.25">Hear Alexa announcements when anyone presses the doorbell or triggers the motion sensors.</p>
+            </li>
+            <li>
+               <h2 data-animate="fade_up">“Alexa, activate <span class="mobile_float"></span>nighttime mode.”</h2>
+               <p data-animate="fade_up" data-delay="0.25">Make your security work harder for you and create Alexa routines to customize your smart home experience.</p>
+            </li>
+         </ul>
+         <div class="grid_indicators grid_indicators--3 ">
+  
+    
+      <div class="active"><div></div></div>
+    
+  
+    
+      <div><div></div></div>
+    
+  
+    
+      <div><div></div></div>
+    
+  
+</div>
+
+      </div>
+   </div>
+</section>
+<!-- TRY NEW SECURITY AROUND HOME --><section class="security-around-your-home">
+  <!-- USE 'three' class for 3 blocks USE 'four' class for 4 blocks -->
+  <div class="security-around-your-home_title">
+    <div>A Ring of Security around your home.</div>
+    <p>Add smart security inside and out. Select a device to learn more.</p>
+  </div>
+  <ul class="security-icons desktop">
+      <li class="security-icon" data-id="doorbells" inactive-img="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/doorbell_2x_e6c66a1f-88a3-44a9-8157-ba8c00d74fe8.png?13187543346706650740" active-img="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/doorbell_active_2x_9425ee1f-e1bb-4062-b7d3-94509f977e25.png?15334618195222998487">
+        <div class="img" style="background-image: url('https://cdn.shopify.com/s/files/1/0019/7849/9145/files/doorbell_2x_e6c66a1f-88a3-44a9-8157-ba8c00d74fe8.png?13187543346706650740');"></div>
+        <b>Video Doorbell</b>
+      </li>
+      <li class="security-icon" data-id="suc" inactive-img="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/suc_2x_3f621a16-4f54-489c-bfa0-4075872c0506.png?15334618195222998487" active-img="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/suc_active_2x_52d45d9a-2344-4b64-95f3-32325ea18c0b.png?15334618195222998487">
+        <div class="img" style="background-image: url('https://cdn.shopify.com/s/files/1/0019/7849/9145/files/suc_2x_3f621a16-4f54-489c-bfa0-4075872c0506.png?15334618195222998487');"></div>
+        <b>Stick Up Cam</b>
+      </li>
+      <li class="security-icon active" data-id="indoor" inactive-img="https://cdn.shopify.com/s/files/1/0021/2300/6050/files/IndoorCam_InActive.png?174056" active-img="https://cdn.shopify.com/s/files/1/0021/2300/6050/files/IndoorCam_Active.png?174056">
+        <div class="img" style="background-image: url('https://cdn.shopify.com/s/files/1/0021/2300/6050/files/IndoorCam_Active.png?174056');"></div>
+        <b>Indoor Cam</b>
+      </li>
+      <li class="security-icon" data-id="floodlight" inactive-img="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/flc_2x_a638c7bd-93b2-419e-bc97-02300f4981f3.png?15334618195222998487" active-img="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/flc_active_2x_b1c1bc79-8f6c-42e6-9eac-a03b42475f19.png?15334618195222998487">
+        <div class="img" style="background-image: url('https://cdn.shopify.com/s/files/1/0019/7849/9145/files/flc_2x_a638c7bd-93b2-419e-bc97-02300f4981f3.png?15334618195222998487');"></div>
+        <b>Floodlight Cam</b>
+      </li>
+      <li class="security-icon" data-id="spotlight" inactive-img="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/spotlight_2x_77dfaf8d-4092-461b-9659-d6c5e73f5cb1.png?15334618195222998487" active-img="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/spotlight_active_2x_92c116f1-5ae0-4d34-8bd1-a694a83f8114.png?15334618195222998487">
+        <div class="img" style="background-image: url('https://cdn.shopify.com/s/files/1/0019/7849/9145/files/spotlight_2x_77dfaf8d-4092-461b-9659-d6c5e73f5cb1.png?15334618195222998487');"></div>
+        <b>Spotlight Cam</b>
+      </li>
+      <li class="security-icon" data-id="alarmkit" inactive-img="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/alarm_2x_eff788ed-aba2-468b-a066-9dd4f03d3a49.png?15334618195222998487" active-img="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/alarm_active_2x_84af912f-04a8-4cda-80f5-0e24bb15cc3d.png?15334618195222998487">
+        <div class="img" style="background-image: url('https://cdn.shopify.com/s/files/1/0019/7849/9145/files/alarm_2x_eff788ed-aba2-468b-a066-9dd4f03d3a49.png?15334618195222998487');"></div>
+        <b>Alarm Kit</b>
+      </li>
+      <li class="security-icon" data-id="chimepro" inactive-img="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/chime_2x_e716cf0b-2464-4c95-b0fb-eb7b2d4757b8.png?15334618195222998487" active-img="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/chime_active_2x_33dcf88f-7029-4fa7-9016-28a7f44b5386.png?15334618195222998487">
+        <div class="img" style="background-image: url('https://cdn.shopify.com/s/files/1/0019/7849/9145/files/chime_2x_e716cf0b-2464-4c95-b0fb-eb7b2d4757b8.png?15334618195222998487');"></div>
+        <b>Chime Pro</b>
+      </li>
+  </ul>
+  <div class="security-around-home" style="clear: both;">
+      <img src="https://cdn.shopify.com/s/files/1/0021/2300/6050/files/Img-illustrationHouse.jpg?168306" />
+      <div data-id="doorbells" class="img-overlay-doorbells">
+        <div class="box-container">
+            <div class="image"><img style="width: 90%;" src="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/db_1_snickel.png?6609792240830953445" /></div>
+            <div class="desc">
+              <h4>Video Doorbell</h4>
+              <p>Security starts at the front door. See who’s there and answer the door from anywhere with a Video Doorbell.</p>
+            </div>
+        </div>
+        <img class="img-overlay-doorbell-icon" src="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/db-selected-icon.png?10199653422048447378" />
+      </div>
+      <div data-id="floodlight" class="img-overlay-floodlight">
+        <div class="box-container">
+            <div class="image"><img src="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/flcDeviceWhite_1x.png?2689020760781965182" /></div>
+            <div class="desc">
+              <h4>Floodlight Cam</h4>
+              <p>Replace outdated floodlights with smart security to shine lights and capture video whenever motion is detected.</p>
+            </div>
+        </div>
+        <img class="img-overlay-flc-icon" src="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/flc-selected-icon.png?10199653422048447378" />
+      </div>
+      <div data-id="suc" class="img-overlay-suc">
+        <div class="box-container">
+            <div class="image"><img src="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/sucWiredDeviceWhite_1x.png?17444439696049007384" /></div>
+            <div class="desc">
+              <h4>Stick Up Cam</h4>
+              <p>Watch over what’s important and check-in on home at anytime with Stick Up Cam, our first indoor/outdoor cam.</p>
+            </div>
+        </div>
+        <img class="img-overlay-suc-icon" src="https://cdn.shopify.com/s/files/1/0021/2300/6050/files/SUC_selecteed.png?174062" />
+      </div>
+      <div data-id="chimepro" class="img-overlay-chimepro">
+        <div class="box-container">
+            <div class="image"><img src="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/product_chimepro.png?1788559412121241184" /></div>
+            <div class="desc">
+              <h4>Chime Pro</h4>
+              <p>Extend your Wi-Fi network for a more reliable connection and receive Ring notifications in any room of your home.</p>
+            </div>
+        </div>
+        <img class="img-overlay-chime-pro-icon" src="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/cp-selected-icon.png?10199653422048447378" />
+      </div>
+      <div data-id="alarmkit" class="img-overlay-alarmkit">
+        <div class="box-container">
+            <div class="image"><img src="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/product_alarmkit.png?1788559412121241184" /></div>
+            <div class="desc">
+              <h4>Alarm Kit</h4>
+              <p>Get smart about whole-home security and receive notifications when doors or windows open and motion is detected.</p>
+            </div>
+        </div>
+        <img class="img-overlay-almarkit-icon" src="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/alrm-selected-icon.png?10199653422048447378" />
+      </div>
+      <div data-id="spotlight" class="img-overlay-spotlight">
+        <div class="box-container">
+            <div class="image"><img src="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/spotlightWiredDeviceWhite_1x.png?7212155158311434103" /></div>
+            <div class="desc">
+              <h4>Spotlight Cam</h4>
+              <p>Add security anywhere you need it with convenient cams featuring lights, siren and four different power options.</p>
+            </div>
+        </div>
+        <img class="img-overlay-slc-icon" src="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/spl-selected-icon.png?10199653422048447378" />
+      </div>
+      <div data-id="indoor" class="img-overlay-indoor active">
+          <div class="box-container">
+              <div class="image"><img src="https://cdn.shopify.com/s/files/1/0021/2300/6050/files/Icon-IndoorCam-3.png?168299" /></div>
+              <div class="desc">
+                <h4>Indoor Cam</h4>
+                <p>Enjoy peace of mind indoors and check in on home at anytime with nonstop  plug-in power.</p>
+              </div>
+          </div>
+          <img class="img-overlay-indoor-icon" src="https://cdn.shopify.com/s/files/1/0021/2300/6050/files/Indoor-cam-icon-active2.png?168337" />
+        </div>
+  </div>
+  <section class="grid_pmp_product_list no_margin mobile_only" data-cur="0">
+    <div class="slide left"></div>
+    <div class="list">
+      <ul class="security-icons mobile">
+        <li class="security-icon" data-id="doorbells" inactive-img="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/doorbell_2x_e6c66a1f-88a3-44a9-8157-ba8c00d74fe8.png?13187543346706650740" active-img="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/doorbell_active_2x_9425ee1f-e1bb-4062-b7d3-94509f977e25.png?15334618195222998487">
+          <div class="img" style="background-image: url('https://cdn.shopify.com/s/files/1/0019/7849/9145/files/doorbell_2x_e6c66a1f-88a3-44a9-8157-ba8c00d74fe8.png?13187543346706650740');"></div>
+          <b>Video Doorbell</b>
+        </li>
+        <li class="security-icon" data-id="suc" inactive-img="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/suc_2x_3f621a16-4f54-489c-bfa0-4075872c0506.png?15334618195222998487" active-img="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/suc_active_2x_52d45d9a-2344-4b64-95f3-32325ea18c0b.png?15334618195222998487">
+          <div class="img" style="background-image: url('https://cdn.shopify.com/s/files/1/0019/7849/9145/files/suc_2x_3f621a16-4f54-489c-bfa0-4075872c0506.png?15334618195222998487');"></div>
+          <b>Stick Up Cam</b>
+        </li>
+        <li class="security-icon active" data-id="indoor" inactive-img="https://cdn.shopify.com/s/files/1/0021/2300/6050/files/IndoorCam_InActive.png?174056" active-img="https://cdn.shopify.com/s/files/1/0021/2300/6050/files/IndoorCam_Active.png?174056">
+          <div class="img" style="background-image: url('https://cdn.shopify.com/s/files/1/0021/2300/6050/files/IndoorCam_Active.png?174056');"></div>
+          <b>Indoor Cam</b>
+        </li>
+        <li class="security-icon" data-id="floodlight" inactive-img="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/flc_2x_a638c7bd-93b2-419e-bc97-02300f4981f3.png?15334618195222998487" active-img="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/flc_active_2x_b1c1bc79-8f6c-42e6-9eac-a03b42475f19.png?15334618195222998487">
+          <div class="img" style="background-image: url('https://cdn.shopify.com/s/files/1/0019/7849/9145/files/flc_2x_a638c7bd-93b2-419e-bc97-02300f4981f3.png?15334618195222998487');"></div>
+          <b>Floodlight Cam</b>
+        </li>
+        <li class="security-icon" data-id="spotlight" inactive-img="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/spotlight_2x_77dfaf8d-4092-461b-9659-d6c5e73f5cb1.png?15334618195222998487" active-img="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/spotlight_active_2x_92c116f1-5ae0-4d34-8bd1-a694a83f8114.png?15334618195222998487">
+          <div class="img" style="background-image: url('https://cdn.shopify.com/s/files/1/0019/7849/9145/files/spotlight_2x_77dfaf8d-4092-461b-9659-d6c5e73f5cb1.png?15334618195222998487);"></div>
+          <b>Spotlight Cam</b>
+        </li>
+        <li class="security-icon" data-id="alarmkit" inactive-img="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/alarm_2x_eff788ed-aba2-468b-a066-9dd4f03d3a49.png?15334618195222998487" active-img="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/alarm_active_2x_84af912f-04a8-4cda-80f5-0e24bb15cc3d.png?15334618195222998487">
+          <div class="img" style="background-image: url('https://cdn.shopify.com/s/files/1/0019/7849/9145/files/alarm_2x_eff788ed-aba2-468b-a066-9dd4f03d3a49.png?15334618195222998487');"></div>
+          <b>Alarm Kit</b>
+        </li>
+        <li class="security-icon" data-id="chimepro" inactive-img="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/chime_2x_e716cf0b-2464-4c95-b0fb-eb7b2d4757b8.png?15334618195222998487" active-img="https://cdn.shopify.com/s/files/1/0019/7849/9145/files/chime_active_2x_33dcf88f-7029-4fa7-9016-28a7f44b5386.png?15334618195222998487">
+          <div class="img" style="background-image: url('https://cdn.shopify.com/s/files/1/0019/7849/9145/files/chime_2x_e716cf0b-2464-4c95-b0fb-eb7b2d4757b8.png?15334618195222998487');"></div>
+          <b>Chime Pro</b>
+        </li>
+      </ul>
+    </div>
+    <div class="slide right"></div>
+  </section>
+</section>
+
+<script src="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/_grid_pmp_list.js?4516" type="text/javascript"></script>
+
+<script>
+  /************** Security Around Home ***************/
+  $('.security-icon').click(function(){
+    let category = $(this).attr('data-id');
+    let active_img = $(this).attr('active-img');
+    let inactive_img = $('.security-icon.active').attr('inactive-img');
+    let img_inactive_class_name =  ".img-overlay-" + $('.security-icon.active').attr('data-id');
+    $('.security-icon.active').find('.img').css({backgroundImage: 'url('+inactive_img+')'});
+    $('.security-icon').removeClass('active');
+
+    $('.security-icons').find('[data-id="'+category+'"]').addClass('active');
+    $('.security-icons').find('[data-id="'+category+'"]').find('.img').css({backgroundImage: 'url('+active_img+')'});
+
+    $(img_inactive_class_name).removeClass('active');
+    $('.security-around-home').find('[data-id="'+category+'"]').addClass('active');
+  });
+  
+</script><!-------- PRODUCTS -------->
+
+<section>
+   <div id="shopify-section-collection-template" class="shopify-section" style="padding: 0px;">
+      <div data-section-id="collection-template" data-section-type="collection-template" class="new_pmp doorbells-pmp">
+         <div class="" id="Collection">
+            <div class="sub_cat">
+               <div class="media">
+                  <h2>Choose a Doorbell that works for you.</h2>
+                  <a href="/pages/video-doorbells-compare">Compare All Doorbells</a>
+               </div>
+            </div>
+            <div class="media">
+               <div class="products doorcams doorbells-pmp">
+                  
+                        
+                        
+                           
+                           
+                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+<div class="product cflex" 
+		
+
+			
+
+					
+					data-access="outdoor"
+				
+
+			
+			
+
+			
+
+					
+					data-category="video-doorbells"
+				
+
+			
+			
+
+			
+
+					
+					data-collection="EXCLUSIVE"
+				
+
+			
+			
+
+			
+
+					data-collection_4="OOW_100"
+				
+
+			
+			
+
+			
+
+					data-collection_5="OOW_50"
+				
+
+			
+			
+
+			
+
+					data-collection_6="RINGTEAM"
+				
+
+			
+			
+
+			
+
+					data-collection_7="RPP"
+				
+
+			
+			
+
+			
+
+					
+					data-import="0522"
+				
+
+			
+			
+
+			
+
+					
+					data-narvar="single_sku"
+				
+
+			
+			
+
+			
+			
+	data-handle="door-peephole-security-camera">
+	
+	<div>
+		
+    
+    <div class="badge blue ">New</div>
+
+	
+	</div>
+	
+	<a class="cflex grid-view-item__link grid-view-item__image-container" href="/products/door-peephole-security-camera" data-url="/products/door-peephole-security-camera">
+		<div>
+			<div class="h3">Peephole Cam</span></div>
+			<div class="h3"><!-- snippet/product-price.liquid -->
+
+
+
+
+
+
+
+  
+    <span class="visually-hidden">translation missing: en.products.expandprod.regular_price</span>
+    <span class="product-price__price">$199.00</span>
+  
+
+</div>
+			
+		</div>
+		
+			
+			<div class="img" style="background-image:url(//cdn.shopify.com/s/files/1/2393/8647/products/DVC_Front_1_560x.jpg?v=1561132022);"></div>
+			
+		
+	</a>
+
+	
+	<div class="dots">
+		
+		
+			<div class="blank"></div>
+		
+	</div>
+	
+
+	
+	
+<div class="grid_specs">
+			
+				
+    
+	
+			
+				Average Install Time <span class="q" data-a="Door View Cam takes about five minutes to install. After charging the battery and setting the Doorbell up with the Ring App, simply place it at your doorway and secure it with the four included screws."><span></span></span></h4>
+	<p>5 minutes</p>
+	
+			
+				Video Resolution <span class="q" data-a="1080p HD video gives you a crystal-clear view of activity at your doorstep."><span></span></span></h4>
+	<p>1080p HD</p>
+	
+			
+				Power Source <span class="q" data-a="The primary power source for Door View Cam is a rechargeable battery pack. You can also purchase an optional Solar Charger for a continuous trickle charge powered by the sun."><span></span></span></h4>
+	<p>Removable Battery Pack</p>
+	
+			
+		</div>
+	
+	
+
+	<div class="pmp_specs">
+                                                         <div class="h3">
+                                                            <div class="icon-img"><span class="internal-battery icon"></span></div>
+                                                            <div class="icon-img-desc">Removable Battery</div>
+                                                         </div>
+                                                         <div class="h3">
+                                                            <div class="icon-img"><span class="hd-video icon"></span></div>
+                                                            <div class="icon-img-desc">1080p HD</div>
+                                                         </div>
+                                                         <div class="h3">
+                                                            <div class="icon-img"><span class="motion-alerts icon"></span></div>
+                                                            <div class="icon-img-desc">Adjustable Motion Detection</div>
+                                                         </div>
+                                                         <div class="h3">
+                                                            <div class="icon-img"><span class="time icon"></span></div>
+                                                            <div class="icon-img-desc">~ 5 min install</div>
+                                                         </div>
+                                                   </div>
+
+
+	
+
+	
+
+		
+		<a href="/products/door-peephole-security-camera" class="plp_button">
+		
+		
+			
+				
+					
+					<button class="">Buy Now</button>
+					
+				
+			
+		
+    </a>
+
+</div>
+
+                        
+                  
+                        
+                        
+                           
+                           
+                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+<div class="product cflex" 
+		
+
+			
+
+					
+					data-access="outdoor"
+				
+
+			
+			
+
+			
+
+					
+					data-category="video-doorbells"
+				
+
+			
+			
+
+			
+
+					
+					data-collection="EXCLUSIVE"
+				
+
+			
+			
+
+			
+
+					data-collection_4="OOW_50"
+				
+
+			
+			
+
+			
+
+					data-collection_5="RPP"
+				
+
+			
+			
+
+			
+
+					
+					data-connect="battery"
+				
+
+			
+			
+
+			
+
+					
+					data-narvar="single_sku"
+				
+
+			
+			
+
+			
+			
+
+			
+			
+	data-handle="video-doorbell">
+	
+	<div>
+		
+	
+	</div>
+	
+	<a class="cflex grid-view-item__link grid-view-item__image-container" href="/products/video-doorbell" data-url="/products/video-doorbell">
+		<div>
+			<div class="h3">Video Doorbell</span></div>
+			<div class="h3"><!-- snippet/product-price.liquid -->
+
+
+
+
+
+
+
+  
+    <span class="visually-hidden">translation missing: en.products.expandprod.regular_price</span>
+    <span class="product-price__price">$99.99</span>
+  
+
+</div>
+			
+		</div>
+		
+			
+			<div class="img" style="background-image:url(//cdn.shopify.com/s/files/1/2393/8647/products/8VR1S5-SEN0-1_560x.jpg?v=1546457186);"></div>
+			
+		
+	</a>
+
+	
+	<div class="dots">
+		
+		
+
+			
+				
+				
+				
+				<div onclick="swapImg(this, '//cdn.shopify.com/s/files/1/2393/8647/products/8VR1S5-SEN0-1_560x.jpg?v=1546457186')" class="satinnickel active" title="Satin Nickel" data-id="56549589643"></div>
+				
+			
+				
+				
+				
+				<div onclick="swapImg(this, '//cdn.shopify.com/s/files/1/2393/8647/products/8VR1S5-VEN0-1_b5f5554a-09f8-49c6-96d1-1614c7e76bad_560x.jpg?v=1546457203')" class="venetianbronze " title="Venetian Bronze" data-id="56549589835"></div>
+				
+			
+		
+	</div>
+	
+
+	
+	
+<div class="grid_specs">
+			
+				
+    
+        
+			
+				Average Install Time <span class="q" data-a="Ring Video Doorbell takes about five minutes to install. After charging the Doorbell and setting it up with the Ring App, simply place it at your doorway and secure it with the four included screws."><span></span></span></h4>
+        <p>5 minutes</p>
+        
+			
+				Video Resolution <span class="q" data-a="720p HD video gives you a clear view of activity at your doorstep."><span></span></span></h4>
+        <p>720p HD</p>
+        
+			
+				Power Source <span class="q" data-a="Ring Video Doorbell is powered by a rechargeable internal battery. To recharge, simply loosen the security screws on the base of the doorbell, and lift the doorbell up and away from the mounting bracket. You can also purchase an optional Solar Charger for continuous charging powered by the sun."><span></span></span></h4>
+        <p>Internal Battery</p>
+        
+			
+		</div>
+	
+	
+
+	<div class="pmp_specs">
+                                                            <div class="h3">
+                                                               <div class="icon-img"><span class="internal-battery icon"></span></div>
+                                                               <div class="icon-img-desc">Internal Battery</div>
+                                                            </div>
+                                                            <div class="h3">
+                                                               <div class="icon-img"><span class="hd-video icon"></span></div>
+                                                               <div class="icon-img-desc">720p HD</div>
+                                                            </div>
+                                                            <div class="h3">
+                                                               <div class="icon-img"><span class="motion-alerts icon"></span></div>
+                                                               <div class="icon-img-desc">Adjustable Motion Detection</div>
+                                                            </div>
+                                                            <div class="h3">
+                                                               <div class="icon-img"><span class="time icon"></span></div>
+                                                               <div class="icon-img-desc">~ 5 min install</div>
+                                                            </div>
+                                                      </div>
+
+
+	
+
+	
+
+		
+		<a href="/products/video-doorbell" class="plp_button">
+		
+		
+			
+				
+					
+					<button class="">Buy Now</button>
+					
+				
+			
+		
+    </a>
+
+</div>
+
+                        
+                  
+                        
+                        
+                           
+                           
+                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+<div class="product cflex" 
+		
+
+			
+
+					
+					data-access="outdoor"
+				
+
+			
+			
+
+			
+
+					
+					data-category="best-sellers"
+				
+
+			
+			
+
+			
+
+					data-category_3="video-doorbells"
+				
+
+			
+			
+
+			
+
+					
+					data-collection="EXCLUSIVE"
+				
+
+			
+			
+
+			
+
+					data-collection_5="OOW_100"
+				
+
+			
+			
+
+			
+
+					data-collection_6="OOW_50"
+				
+
+			
+			
+
+			
+
+					data-collection_7="RINGTEAM"
+				
+
+			
+			
+
+			
+
+					data-collection_8="RPP"
+				
+
+			
+			
+
+			
+
+					
+					data-connect="battery"
+				
+
+			
+			
+
+			
+
+					
+					data-narvar="single_sku"
+				
+
+			
+			
+
+			
+			
+
+			
+			
+	data-handle="video-doorbell-2">
+	
+	<div>
+		
+	
+	</div>
+	
+	<a class="cflex grid-view-item__link grid-view-item__image-container" href="/products/video-doorbell-2" data-url="/products/video-doorbell-2">
+		<div>
+			<div class="h3">Video Doorbell 2</span></div>
+			<div class="h3"><!-- snippet/product-price.liquid -->
+
+
+
+
+
+
+
+  
+    <span class="visually-hidden">translation missing: en.products.expandprod.regular_price</span>
+    <span class="product-price__price">$199.00</span>
+  
+
+</div>
+			
+		</div>
+		
+			
+			<div class="img" style="background-image:url(//cdn.shopify.com/s/files/1/2393/8647/products/RVD2_Main_560x.jpg?v=1568001784);"></div>
+			
+		
+	</a>
+
+	
+	<div class="dots">
+		
+		
+        	
+        		
+        		
+
+        		<div class="satinnickel active" title="Satin Nickel" onclick="swapImg(this, '//cdn.shopify.com/s/files/1/2393/8647/products/RVD2_Main_560x.jpg?v=1568001784')"></div>
+
+        		
+        	
+        		
+        		
+
+        		<div class="venetianbronze" title="Venetian Bronze" onclick="swapImg(this, '//cdn.shopify.com/s/files/1/2393/8647/products/RVD2_Alt_560x.jpg?v=1568001784')"></div>
+
+        		
+        	
+
+		
+	</div>
+	
+
+	
+	
+<div class="grid_specs">
+			
+				
+    
+        
+			
+				Average Install Time <span class="q" data-a="Ring Video Doorbell 2 takes about five minutes to install. After charging the battery and setting the Doorbell up with the Ring App, simply place it at your doorway and secure it with the four included screws."><span></span></span></h4>
+        <p>5 minutes</p>
+        
+			
+				Video Resolution <span class="q" data-a="1080p HD video gives you a crystal-clear view of activity at your doorstep."><span></span></span></h4>
+        <p>1080p HD</p>
+        
+			
+				Power Source <span class="q" data-a="The primary power source for Ring Video Doorbell 2 is a quick-release rechargeable battery pack. You can also purchase an optional Solar Charger for a continuous trickle charge powered by the sun."><span></span></span></h4>
+        <p>Removable Battery Pack</p>
+        
+			
+		</div>
+	
+	
+
+	<div class="pmp_specs">
+                                                            <div class="h3">
+                                                               <div class="icon-img"><span class="internal-battery icon"></span></div>
+                                                               <div class="icon-img-desc">Removable Battery</div>
+                                                            </div>
+                                                            <div class="h3">
+                                                               <div class="icon-img"><span class="hd-video icon"></span></div>
+                                                               <div class="icon-img-desc">1080p HD</div>
+                                                            </div>
+                                                            <div class="h3">
+                                                               <div class="icon-img"><span class="motion-alerts icon"></span></div>
+                                                               <div class="icon-img-desc">Adjustable Motion Detection</div>
+                                                            </div>
+                                                            <div class="h3">
+                                                               <div class="icon-img"><span class="time icon"></span></div>
+                                                               <div class="icon-img-desc">~ 5 min install</div>
+                                                            </div>
+                                                      </div>
+
+
+	
+
+	
+
+		
+		<a href="/products/video-doorbell-2" class="plp_button">
+		
+		
+			
+				
+					
+					<button class="">Buy Now</button>
+					
+				
+			
+		
+    </a>
+
+</div>
+
+                        
+                  
+                        
+                        
+                           
+                           
+                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+<div class="product cflex" 
+		
+
+			
+
+					
+					data-access="outdoor"
+				
+
+			
+			
+
+			
+
+					
+					data-category="video-doorbells"
+				
+
+			
+			
+
+			
+
+					
+					data-collection="EXCLUSIVE"
+				
+
+			
+			
+
+			
+
+					data-collection_4="OOW_100"
+				
+
+			
+			
+
+			
+
+					data-collection_5="OOW_50"
+				
+
+			
+			
+
+			
+
+					data-collection_6="RINGTEAM"
+				
+
+			
+			
+
+			
+
+					data-collection_7="RPP"
+				
+
+			
+			
+
+			
+
+					
+					data-connect="wired"
+				
+
+			
+			
+
+			
+
+					
+					data-narvar="single_sku"
+				
+
+			
+			
+
+			
+			
+
+			
+			
+	data-handle="video-doorbell-pro">
+	
+	<div>
+		
+	
+	</div>
+	
+	<a class="cflex grid-view-item__link grid-view-item__image-container" href="/products/video-doorbell-pro" data-url="/products/video-doorbell-pro">
+		<div>
+			<div class="h3">Video Doorbell <span class="orange">Pro</span></span></div>
+			<div class="h3"><!-- snippet/product-price.liquid -->
+
+
+
+
+
+
+
+  
+    <span class="visually-hidden">translation missing: en.products.expandprod.regular_price</span>
+    <span class="product-price__price">$249.00</span>
+  
+
+</div>
+			
+		</div>
+		
+			
+			<div class="img" style="background-image:url(//cdn.shopify.com/s/files/1/2393/8647/products/RVD_Pro_Main_560x.jpg?v=1568001930);"></div>
+			
+		
+	</a>
+
+	
+	<div class="dots">
+		
+		
+        	
+        		
+        		
+
+        		<div class="satinnickel active" title="Satin Nickel" onclick="swapImg(this, '//cdn.shopify.com/s/files/1/2393/8647/products/RVD_Pro_Main_560x.jpg?v=1568001930')"></div>
+
+        		
+        	
+        		
+        		
+
+        		<div class="venetianbronze" title="Venetian Bronze" onclick="swapImg(this, '//cdn.shopify.com/s/files/1/2393/8647/products/RVD_Pro_Alt_1_560x.jpg?v=1568001930')"></div>
+
+        		
+        	
+        		
+        		
+
+        		<div class="black" title="Black" onclick="swapImg(this, '//cdn.shopify.com/s/files/1/2393/8647/products/RVD_Pro_Alt_2_560x.jpg?v=1568001930')"></div>
+
+        		
+        	
+        		
+        		
+
+        		<div class="cream" title="Cream" onclick="swapImg(this, '//cdn.shopify.com/s/files/1/2393/8647/products/RVD_Pro_Alt_3_560x.jpg?v=1568001930')"></div>
+
+        		
+        	
+
+		
+	</div>
+	
+
+	
+	
+<div class="grid_specs">
+			
+				
+    
+        
+			
+				Average Install Time <span class="q" data-a="Ring Video Doorbell Pro takes about 15 to 30 minutes to install. If you’re connecting it to an existing doorbell system, simply install the included Pro Power Kit into your internal doorbell chime, connect your Ring to your existing doorbell wiring, secure it with the two included screws, and set up the Ring app."><span></span></span></h4>
+        <p>15 minutes</p>
+        
+			
+				Video Resolution <span class="q" data-a="1080p HD video gives you a crystal-clear view of activity at your doorstep."><span></span></span></h4>
+        <p>1080p HD</p>
+        
+			
+				Power Source <span class="q" data-a="Ring Video Doorbell Pro is powered by standard 16-24 VAC (30 VAC recommended) doorbell systems. This enables enhanced security features and non-stop power. If your doorbell system doesn’t meet the minimum requirements of 16 VAC, you can purchase an optional Ring Plug-In Adapter or Hardwired Transformer Kit to power your Video Doorbell.
+"><span></span></span></h4>
+        <p>Hardwired</p>
+        
+			
+		</div>
+	
+	
+
+	<div class="pmp_specs">
+                                                            <div class="h3">
+                                                               <div class="icon-img"><span class="internal-battery icon"></span></div>
+                                                               <div class="icon-img-desc">Hardwired</div>
+                                                            </div>
+                                                            <div class="h3">
+                                                               <div class="icon-img"><span class="hd-video icon"></span></div>
+                                                               <div class="icon-img-desc">1080p HD</div>
+                                                            </div>
+                                                            <div class="h3">
+                                                               <div class="icon-img"><span class="motion-alerts icon"></span></div>
+                                                               <div class="icon-img-desc">Customizable Motion Detection</div>
+                                                            </div>
+                                                            <div class="h3">
+                                                               <div class="icon-img"><span class="time icon"></span></div>
+                                                               <div class="icon-img-desc">~ 15 min install</div>
+                                                            </div>
+                                                      </div>
+
+
+	
+
+	
+
+		
+		<a href="/products/video-doorbell-pro" class="plp_button">
+		
+		
+			
+				
+					
+					<button class="">Buy Now</button>
+					
+				
+			
+		
+    </a>
+
+</div>
+
+                        
+                  
+                        
+                        
+                           
+                           
+                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+<div class="product cflex" 
+		
+
+			
+
+					
+					data-access="outdoor"
+				
+
+			
+			
+
+			
+
+					
+					data-category="video-doorbells"
+				
+
+			
+			
+
+			
+
+					
+					data-collection="EXCLUSIVE"
+				
+
+			
+			
+
+			
+
+					data-collection_4="OOW_100"
+				
+
+			
+			
+
+			
+
+					data-collection_5="OOW_50"
+				
+
+			
+			
+
+			
+
+					data-collection_6="RINGTEAM"
+				
+
+			
+			
+
+			
+
+					data-collection_7="RPP"
+				
+
+			
+			
+
+			
+
+					
+					data-connect="power-over-ethernet"
+				
+
+			
+			
+
+			
+
+					
+					data-narvar="single_sku"
+				
+
+			
+			
+
+			
+			
+
+			
+			
+	data-handle="video-doorbell-elite">
+	
+	<div>
+		
+	
+	</div>
+	
+	<a class="cflex grid-view-item__link grid-view-item__image-container" href="/products/video-doorbell-elite" data-url="/products/video-doorbell-elite">
+		<div>
+			<div class="h3">Video Doorbell<span class="blue"> Elite</span></span></div>
+			<div class="h3"><!-- snippet/product-price.liquid -->
+
+
+
+
+
+
+
+  
+    <span class="visually-hidden">translation missing: en.products.expandprod.regular_price</span>
+    <span class="product-price__price">$499.00</span>
+  
+
+</div>
+			
+		</div>
+		
+			
+			<div class="img" style="background-image:url(//cdn.shopify.com/s/files/1/2393/8647/products/8VR1E7-0EN0-1_560x.jpg?v=1526939980);"></div>
+			
+		
+	</a>
+
+	
+	<div class="dots">
+		
+		
+        	
+        		
+        		
+
+        		<div class="satinnickel active" title="Satin Nickel" onclick="swapImg(this, '//cdn.shopify.com/s/files/1/2393/8647/products/8VR1E7-0EN0-1_560x.jpg?v=1526939980')"></div>
+
+        		
+        	
+        		
+        		
+
+        		<div class="venetianbronze" title="Venetian Bronze" onclick="swapImg(this, '//cdn.shopify.com/s/files/1/2393/8647/products/8VR1E7-0EN0-2_560x.jpg?v=1526939990')"></div>
+
+        		
+        	
+        		
+        		
+
+        		<div class="black" title="Black" onclick="swapImg(this, '//cdn.shopify.com/s/files/1/2393/8647/products/8VR1E7-0EN0-3_560x.jpg?v=1526939999')"></div>
+
+        		
+        	
+        		
+        		
+
+        		<div class="cream" title="Cream" onclick="swapImg(this, '//cdn.shopify.com/s/files/1/2393/8647/products/8VR1E7-0EN0-4_560x.jpg?v=1526940006')"></div>
+
+        		
+        	
+
+		
+	</div>
+	
+
+	
+	
+<div class="grid_specs">
+			
+				
+    
+        
+			
+				Average Install Time <span class="q" data-a="Depending on your home, times vary for installation. Semi-professional installation recommended."><span></span></span></h4>
+        <p>Professional</p>
+        
+			
+				Video Resolution <span class="q" data-a="1080p HD video gives you a crystal-clear view of activity at your doorstep."><span></span></span></h4>
+        <p>1080p HD</p>
+        
+			
+				Power Source <span class="q" data-a="Ring Video Doorbell Elite connects to the internet and receives power via ethernet. A PoE injector and ethernet cables are included."><span></span></span></h4>
+        <p>Power over Ethernet</p>
+        
+			
+		</div>
+	
+	
+
+	<div class="pmp_specs">
+                                                               <div class="h3">
+                                                                  <div class="icon-img"><span class="internal-battery icon"></span></div>
+                                                                  <div class="icon-img-desc">Power over Ethernet</div>
+                                                               </div>
+                                                               <div class="h3">
+                                                                  <div class="icon-img"><span class="hd-video icon"></span></div>
+                                                                  <div class="icon-img-desc">1080p HD</div>
+                                                               </div>
+                                                               <div class="h3">
+                                                                  <div class="icon-img"><span class="motion-alerts icon"></span></div>
+                                                                  <div class="icon-img-desc">Customizable Motion Detection</div>
+                                                               </div>
+                                                               <div class="h3">
+                                                                  <div class="icon-img"><span class="time icon"></span></div>
+                                                                  <div class="icon-img-desc">~ 60 min install</div>
+                                                               </div>
+                                                         </div>
+
+
+	
+
+	
+
+		
+		<a href="/products/video-doorbell-elite" class="plp_button">
+		
+		
+			
+				
+					
+					<button class="">Buy Now</button>
+					
+				
+			
+		
+    </a>
+
+</div>
+
+                        
+                  
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<!-------- HAVING TROUBLE QUIZ ------>
+<section class="pmp-quiz">
+   <div data-quiz-id="basic-title" class="pmp-quiz-main active">
+      <div class="pmp-quiz-title">
+         <div>Having trouble deciding?</div>
+         <p>Get started by selecting your type of home.</p>
+      </div>
+      <div class="pmp-quiz-ans-block"><a data-quiz-ans="wire-title-apartment" class="quiz-button">Apartment</a> <a data-quiz-ans="wire-title-house" class="quiz-button">House</a></div>
+   </div>
+   <!-- Apartment Quiz Section -->
+   <div data-quiz-id="wire-title-apartment" class="pmp-quiz-main">
+      <div class="pmp-quiz-title">
+         <div>Having trouble deciding?</div>
+         <p>Does your apartment have existing doorbell wires?</p>
+      </div>
+      <div class="pmp-quiz-ans-block"><a data-quiz-ans="cable-title-apartment" class="quiz-button">Yes</a> <a data-quiz-ans="foot-traffic-title-apartment" class="quiz-button">No</a></div>
+   </div>
+   <div data-quiz-id="cable-title-apartment" class="pmp-quiz-main">
+      <div class="pmp-quiz-title">
+         <div>Having trouble deciding?</div>
+         <p>Does your apartment also have ethernet cables at the install location?</p>
+      </div>
+      <div class="pmp-quiz-ans-block"><a data-quiz-ans="doorbell-elite" class="quiz-button">Yes</a> <a data-quiz-ans="doorbell-pro" class="quiz-button">No</a></div>
+   </div>
+   <div data-quiz-id="foot-traffic-title-apartment" class="pmp-quiz-main">
+      <div class="pmp-quiz-title">
+         <div>Having trouble deciding?</div>
+         <p>Does your apartment get a lot of foot traffic?</p>
+      </div>
+      <div class="pmp-quiz-ans-block"><a data-quiz-ans="doorbell-2" class="quiz-button">Yes</a> <a data-quiz-ans="doorbell" class="quiz-button">No</a></div>
+   </div>
+   <!-- House Quiz Section -->
+   <div data-quiz-id="wire-title-house" class="pmp-quiz-main">
+      <div class="pmp-quiz-title">
+         <div>Having trouble deciding?</div>
+         <p>Does your house have existing doorbell wires?</p>
+      </div>
+      <div class="pmp-quiz-ans-block"><a data-quiz-ans="cable-title-house" class="quiz-button">Yes</a> <a data-quiz-ans="foot-traffic-title-house" class="quiz-button">No</a></div>
+   </div>
+   <div data-quiz-id="cable-title-house" class="pmp-quiz-main">
+      <div class="pmp-quiz-title">
+         <div>Having trouble deciding?</div>
+         <p>Does your house also have ethernet cables at the install location?</p>
+      </div>
+      <div class="pmp-quiz-ans-block"><a data-quiz-ans="doorbell-elite" class="quiz-button">Yes</a> <a data-quiz-ans="doorbell-pro" class="quiz-button">No</a></div>
+   </div>
+   <div data-quiz-id="foot-traffic-title-house" class="pmp-quiz-main">
+      <div class="pmp-quiz-title">
+         <div>Having trouble deciding?</div>
+         <p>Does your house get a lot of foot traffic?</p>
+      </div>
+      <div class="pmp-quiz-ans-block"><a data-quiz-ans="doorbell-2" class="quiz-button">Yes</a> <a data-quiz-ans="doorbell" class="quiz-button">No</a></div>
+   </div>
+   <!-- Product Recommendations -->
+   <div data-quiz-id="doorbell" class="pmp-quiz-main">
+      <div class="pmp-quiz-title">
+         <div>Having trouble deciding?</div>
+         <p>We recommend the <a href="/collections/video-doorbells/products/video-doorbell">Video Doorbell!</a></p>
+         <a href="/collections/video-doorbells/products/video-doorbell"><button class="button--default button--med">Buy Now</button></a>
+      </div>
+   </div>
+   <div data-quiz-id="doorbell-2" class="pmp-quiz-main">
+      <div class="pmp-quiz-title">
+         <div>Having trouble deciding?</div>
+         <p>We recommend the <a href="/collections/video-doorbells/products/video-doorbell-2">Video Doorbell 2!</a></p>
+         <a href="/collections/video-doorbells/products/video-doorbell-2"><button class="button--default button--med">Buy Now</button></a>
+      </div>
+   </div>
+   <div data-quiz-id="doorbell-elite" class="pmp-quiz-main">
+      <div class="pmp-quiz-title">
+         <div>Having trouble deciding?</div>
+         <p>We recommend the <a href="/collections/video-doorbells/products/video-doorbell-elite">Video Doorbell Elite!</a></p>
+         <a href="/collections/video-doorbells/products/video-doorbell-elite"><button class="button--default button--med">Buy Now</button></a>
+      </div>
+   </div>
+   <div data-quiz-id="doorbell-pro" class="pmp-quiz-main">
+      <div class="pmp-quiz-title">
+         <div>Having trouble deciding?</div>
+         <p>We recommend the <a href="/collections/video-doorbells/products/video-doorbell-pro">Video Doorbell Pro!</a></p>
+         <a href="/collections/video-doorbells/products/video-doorbell-pro"><button class="button--default button--med">Buy Now</button></a>
+      </div>
+   </div>
+</section>
+<!-- FAQ SECTION START -->
+
+
+
+
+
+
+<!-------- FAQ -------->
+<section class="pmp-faq">
+  <div class="media">
+      <h2>Frequently Asked Questions</h2>
+  </div>
+  <a class="blue" href="https://support.ring.com/hc/en-us/articles/115005025306-Ring-Alarm-System-FAQ">Still Have Questions?</a>
+  <div class="media">
+      <div class="pmp-expand">
+        <div class="expander on" onclick="expandFaq(this);">
+            <span class="faq">What’s the difference between Ring Video Doorbell, Video Doorbell 2, Video Doorbell Pro, Video Doorbell Elite and Peephole Camera?</span>
+            <svg width="33px" height="21px" viewbox="0 0 33 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+              <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="1">
+                  <g id="RPP-Strikethrough-375px-Mobile-Default" transform="translate(-318.000000, -610.000000)" fill="#9B9B9B">
+                    <g id="Card-Basic" transform="translate(0.000000, 586.000000)">
+                        <polygon id="Icon-Chevron-Plus" transform="translate(334.500000, 34.500000) rotate(90.000000) translate(-334.500000, -34.500000) " points="324 21.3 327.5 18 345 34.5 327.5 51 324 47.7 337.890625 34.5"></polygon>
+                    </g>
+                  </g>
+              </g>
+            </svg>
+        </div>
+        <div class="expand" style="display: block; padding-bottom: 30px;">
+          <p>All Ring Video Doorbells send notifications to your phone, tablet and PC when anyone presses your doorbell or triggers the built-in motion sensors. When you answer the notification, you can see, hear and speak to visitors from anywhere. The main differences between each doorbell are their features and how they receive power.</p>
+          <p>Ring Video Doorbell is powered by an internal rechargeable battery and works on any home. It features 720p HD video and adjustable motion detection that lets you fine tune the sensitivity of your motion sensors.</p>
+          <p>Ring Video Doorbell 2 is powered by a removable battery pack and works on any home. It features 1080p HD video and adjustable motion detection.</p>
+          <p>Ring Video Doorbell Pro connects to existing doorbell wires for nonstop power. It features 1080p HD video, a slim design and customizable motion detection that lets you create and adjust your own motion zones.</p>
+          <p>Ring Video Doorbell Elite uses Power Over Ethernet to connect to the internet and get power. Ideal for new or remodeled homes, Video Doorbell Elite has a flush mount and a sleek design with customizable motion detection and 1080p HD video.</p>
+          <p>Ring Peephole Camera is powered by a rechargeable battery pack. Unlike other doorbells, which are typically mounted to the side of a door, Peephole Camera can be mounted directly on your door to replace a compatible peephole. It also features 1080p HD video, knock detection, adjustable motion detection and customizable privacy settings.</p>
+        </div>
+        <hr />
+      </div>
+
+      <div class="pmp-expand">
+        <div class="expander" onclick="expandFaq(this);">
+            <span class="faq">Do Ring Doorbells save my videos so I can review them later?</span>
+            <svg width="33px" height="21px" viewbox="0 0 33 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+              <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="1">
+                  <g id="RPP-Strikethrough-375px-Mobile-Default" transform="translate(-318.000000, -610.000000)" fill="#9B9B9B">
+                    <g id="Card-Basic" transform="translate(0.000000, 586.000000)">
+                        <polygon id="Icon-Chevron-Plus" transform="translate(334.500000, 34.500000) rotate(90.000000) translate(-334.500000, -34.500000) " points="324 21.3 327.5 18 345 34.5 327.5 51 324 47.7 337.890625 34.5"></polygon>
+                    </g>
+                  </g>
+              </g>
+            </svg>
+        </div>
+        <div class="expand" style="display: none;">
+          <p>If you have a Ring Protect Plan, videos captured by your doorbell will be saved to your Ring account for up to 60 days, so you can review them at any time. All Ring Doorbells come with a free 30-day trial of the Ring Protect Plan. After 30 days, you can choose to purchase a Ring Protect Plan to save your videos.</p>
+        </div>
+        <hr />
+      </div>
+
+      <div class="pmp-expand">
+        <div class="expander" onclick="expandFaq(this);">
+            <span class="faq">Can I share my videos with people?</span>
+            <svg width="33px" height="21px" viewbox="0 0 33 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+              <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="1">
+                  <g id="RPP-Strikethrough-375px-Mobile-Default" transform="translate(-318.000000, -610.000000)" fill="#9B9B9B">
+                    <g id="Card-Basic" transform="translate(0.000000, 586.000000)">
+                        <polygon id="Icon-Chevron-Plus" transform="translate(334.500000, 34.500000) rotate(90.000000) translate(-334.500000, -34.500000) " points="324 21.3 327.5 18 345 34.5 327.5 51 324 47.7 337.890625 34.5"></polygon>
+                    </g>
+                  </g>
+              </g>
+            </svg>
+        </div>
+        <div class="expand" style="display: none;">
+          <p>Ring Protect Plans let you share your videos with anyone, including neighbors, friends, family and local law enforcement. All Ring Doorbells come with a free 30-day trial of the Ring Protect Plan. After 30 days, you can choose to purchase a plan to save, review and share all your videos captured by your doorbell.</p>
+        </div>
+        <hr />
+      </div>
+
+      <div class="pmp-expand">
+        <div class="expander" onclick="expandFaq(this);">
+            <span class="faq">What’s a Ring Protect Plan?</span>
+            <svg width="33px" height="21px" viewbox="0 0 33 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+              <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="1">
+                  <g id="RPP-Strikethrough-375px-Mobile-Default" transform="translate(-318.000000, -610.000000)" fill="#9B9B9B">
+                    <g id="Card-Basic" transform="translate(0.000000, 586.000000)">
+                        <polygon id="Icon-Chevron-Plus" transform="translate(334.500000, 34.500000) rotate(90.000000) translate(-334.500000, -34.500000) " points="324 21.3 327.5 18 345 34.5 327.5 51 324 47.7 337.890625 34.5"></polygon>
+                    </g>
+                  </g>
+              </g>
+            </svg>
+        </div>
+        <div class="expand" style="display: none;">
+          <p>Ring Protect Plans are optional offerings that let you get the most out of your Ring devices. There are two tiers of Ring Protect Plans: Basic and Plus.</p>
+          <p>The Ring Protect Basic Plan activates video recording and sharing for individual Ring Doorbells and Cameras. It saves all your videos to your Ring account for up to 60 days, so you can review and share your videos at any time. Ring Protect Basic Plans start at only $3 a month per device.</p>
+          <p>The Ring Protect Plus Plan adds even more to your home security. It includes video recording and sharing for unlimited Ring Doorbells and Cameras at your home, and it also comes with 24/7 professional monitoring with cellular backup for Ring Alarm and more. Ring Protect Plus Plans start at only $10 a month per home.</p>
+        </div>
+        <hr />
+      </div>
+  </div>
+  <a class="blue mobile" href="https://support.ring.com/hc/en-us/articles/115005025306-Ring-Alarm-System-FAQ">Still Have Questions?</a>
+</section>
+<script>
+  function expandFaq(e) {
+      $(e).toggleClass('on');
+      $(e).next().slideToggle();
+  }
+</script>
+<!-- FAQ SECTION END -->
+
+	</div>
+</div>
+
+<script src="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/_grid_time_indicators.js?4516" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/_grid_pmp_list.js?4516" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/_pmp-doorbell-cameras_ga-tracking.js?4516" type="text/javascript"></script>
+
+<script>
+  const windowWidth = window.innerWidth;
+
+	function playConnectedVideo(){
+		document.getElementById("stay-connected-video").play();
+		document.getElementById("stay-connected-video").muted = true;
+	}
+
+  function showConnectedVideo() {
+		document.getElementById("cams-ugc-video").style.display = "none";
+		document.getElementById("cams-ugc-video").pause();
+		document.getElementById("stay-connected-video").style.display = "inline-block";
+		document.getElementById("cams-ugc-video-mobile").style.display = "none";
+		document.getElementById("cams-ugc-video-mobile").pause();
+		document.getElementById("cams-ugc-video-play-btn").style.display = "none";
+		document.getElementById("stay-connected-video-mobile").style.display = "inline-block";
+		document.getElementById("stay-connected-video-play-btn").style.display = "inline-block";
+
+    if (windowWidth > 1023) {
+      playConnectedVideo();
+    }
+  }
+
+	function playStopCrime(){
+		document.getElementById("cams-ugc-video").play();
+		document.getElementById("cams-ugc-video").muted = true;
+	}
+
+  function showStopCrime() {
+		document.getElementById("stay-connected-video").style.display = "none";
+		document.getElementById("stay-connected-video").pause();
+		document.getElementById("cams-ugc-video").style.display = "inline-block";
+		document.getElementById("stay-connected-video-mobile").style.display = "none";
+		document.getElementById("stay-connected-video-mobile").pause();
+		document.getElementById("stay-connected-video-play-btn").style.display = "none";
+		document.getElementById("cams-ugc-video-mobile").style.display = "inline-block";
+		document.getElementById("cams-ugc-video-play-btn").style.display = "inline-block";
+
+    if (windowWidth > 1023) {
+      playStopCrime();
+    }
+  }
+
+    $('.animation-header').click(function(e){
+        let category = $(e.target).attr('data-testimonial');
+        $('.animation-header').removeClass('active');
+        $('.animation-headers').find('[data-testimonial="'+category+'"]').addClass('active');
+        $('.video-block').removeClass('active');
+        $('.testimonials-wrapper').find('[data-testimonial="'+category+'"]').addClass('active');
+    });
+
+    $('.mute-btn').click(function(e) {
+        let video_block = $(e.target).closest('.video-block');
+        let vid = video_block.find('video');
+        vid.get()[0].muted = false;
+        $(e.target).hide();
+        video_block.find('.unmute-btn').show();
+    });
+    $('.unmute-btn').click(function(e) {
+        let video_block = $(e.target).closest('.video-block');
+        let vid = video_block.find('video');
+        vid.get()[0].muted = true;
+        $(e.target).hide();
+        video_block.find('.mute-btn').show();
+    });
+    $('.play-btn').click(function(e) {
+        let video_block = $(e.target).closest('.video-block');
+        let vid = video_block.find('video');
+        vid.get()[0].play();
+        $(e.target).hide();
+    });
+</script>
+
+<script>
+    $('.security-icon').click(function(){
+        let category = $(this).attr('data-id');
+        let active_img = $(this).attr('active-img');
+        let inactive_img = $('.security-icon.active').attr('inactive-img');
+        let img_inactive_class_name =  ".img-overlay-" + $('.security-icon.active').attr('data-id');
+        $('.security-icon.active').find('.img').css({backgroundImage: 'url('+inactive_img+')'});
+        $('.security-icon').removeClass('active');
+
+        $('.security-icons').find('[data-id="'+category+'"]').addClass('active');
+        $('.security-icons').find('[data-id="'+category+'"]').find('.img').css({backgroundImage: 'url('+active_img+')'});
+
+        $(img_inactive_class_name).removeClass('active');
+        $('.security-around-home').find('[data-id="'+category+'"]').addClass('active');
+    });
+</script>
+
+<script>
+	$('.pmp-quiz .pmp-quiz-main .pmp-quiz-ans-block .quiz-button').click(function(){
+		let quizans = $(this).attr('data-quiz-ans');
+		$('.pmp-quiz-main').removeClass('active');
+		$('.pmp-quiz').find('[data-quiz-id="'+quizans+'"]').addClass('active');
+	});
+</script>
+
+</div></div>
+
+	<div>
+		<div id="shopify-section-app" class="shopify-section">
+
+
+
+
+
+
+
+
+	<section class="footer_app_section">
+		<div class="neighbors-app-box">
+			<div class="neighbors-app-box__content grid-container">
+				<div class="neighbors-app-box__tag">
+					<span class="neighbors-icon"></span> Neighbors
+				</div>
+				<p class="neighbors-app-box__title">The neighborhood <span class="mobile_float"></span>watch app by Ring</p>
+				<p class="neighbors-app-box__ctas">
+					<a class="button-cta button-cta__blue" href="http://ring.com/neighbors">Learn More</a>
+					<a class="button-cta button-cta__orange" href="https://go.onelink.me/v1xd?pid=Ring.com%20Footer&af_web_dp=https%3A%2F%2Fring.com%2Fneighbors&c=neighbors">Get App</a>
+				</p>
+			</div>
+		</div>
+	</section>
+	
+</div>
+		<div id="shopify-section-footer" class="shopify-section">
+
+<footer>
+	<div>
+		
+		
+			<div class="footer_links-wider-col">
+				<h5>Company</h5>
+				<div>
+					<ul>
+						
+							<li><a href="/pages/about">About</a></li>
+						
+							<li><a href="https://blog.ring.com/">Blog</a></li>
+						
+							<li><a href="https://ring.com/press">Press</a></li>
+						
+							<li><a href="https://www.ring.com/patents">Patents</a></li>
+						
+							<li><a href="/pages/terms">Terms of Service</a></li>
+						
+							<li><a href="/pages/privacy">Privacy</a></li>
+						
+							<li><a href="/pages/oss">Open Source</a></li>
+						
+							<li><a href="https://ring.com/licenses">Monitoring Licenses</a></li>
+						
+							<li><a href="https://jobs.lever.co/ring">Careers</a></li>
+						
+							<li><a href="http://shop.ring.com/pages/our-store">Where to Buy</a></li>
+						
+							<li><a href="http://ring.com/business">Ring for Business</a></li>
+						
+					</ul>
+				</div>
+			</div>
+		
+
+		
+			<div class="footer_links-wider-col">
+				<h5>Support</h5>
+				<div>
+					<ul>
+						
+							<li><a href="https://support.ring.com/">Help</a></li>
+						
+							<li><a href="https://support.ring.com/hc/en-us/articles/115004666066">FAQ</a></li>
+						
+							<li><a href="https://ring.com/order-status">Order Status</a></li>
+						
+							<li><a href="http://status.ring.com/">System Status</a></li>
+						
+							<li><a href="/pages/warranty">Warranty</a></li>
+						
+							<li><a href="/pages/financing">Financing</a></li>
+						
+							<li><a href="/pages/exclusive-discounts">Exclusive Discounts</a></li>
+						
+							<li><a href="/pages/exclusive-discounts">First Responder Discount</a></li>
+						
+							<li><a href="/pages/exclusive-discounts">Military Discount</a></li>
+						
+					</ul>
+				</div>
+			</div>
+		
+
+		
+
+		<div><section class="email-signup">
+  <h6 class="header">Sign up for the latest news and offers</h6>
+  <div id="signup-form">
+    <form method="post" novalidate enctype="multipart/form-data" action="https://www.formstack.com/forms/index.php" class="fsForm fsSingleColumn fsMaxCol1" id="fsForm3226112">
+      <input type="hidden" name="form" value="3226112" />
+      <input type="hidden" name="viewkey" value="OCj0FDFA60" />
+      <input type="hidden" name="hidden_fields" id="hidden_fields3226112" value="" />
+      <input type="hidden" name="_submit" value="1" />
+      <input type="hidden" name="incomplete" id="incomplete3226112" value="" />
+      <input type="hidden" name="incomplete_password" id="incomplete_password3226112" />
+      <input type="hidden" name="style_version" value="3" />
+      <input type="hidden" id="viewparam" name="viewparam" value="727270" />
+      <input type="hidden" id="field70015818" name="field70015818" size="50" value="ring-usa" class="fsField" />
+      <input type="email" id="field69985641" name="field69985641" size="50" required="required" value="" class="fsField fsFormatEmail fsRequired" aria-required="true"placeholder="Enter your Email" autocomplete="off" />
+      <input id="fsSubmitButton3226112" class="submit-btn" type="submit" value="&#10095;" />
+    </form>
+    <div class="email-signup-error" style="display: none; margin: 8px 0; color: red;">Hmm, that doesn't look like a valid e-mail address. Mind trying again?</div>
+  </div>
+</section>
+
+<script type="text/javascript">
+
+$('#fsForm3226112').submit(function( event ) {
+  event.preventDefault();
+  const inputField = $("#fsForm3226112 input[type='email']");
+  const inputFieldValue = inputField.val();
+  const regex = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+  const formContainer = $('#fsForm3226112').parent();
+  const errorMessage = formContainer.find('.email-signup-error');
+  const formType = 'footer';
+  if ( regex.test(inputFieldValue) ) {
+    $.post('https://www.formstack.com/forms/index.php', getInputsfsForm3226112());
+    console.log('posted');
+    console.log('fsForm3226112');
+    setTimeout(function(){
+      errorMessage.fadeOut();
+      if ( formType == 'footer') {
+        console.log('type footer');
+        inputField.val('Thank you for your submission!');
+      }
+      if ( formType == 'notify') {
+        console.log('type notify');
+        formContainer.html('<p class="blue">Thank you! We will keep you posted!</p>')
+      }
+    },500);
+  } else {
+    errorMessage.fadeOut('fast');
+    errorMessage.fadeIn();
+  }
+});
+
+function getInputsfsForm3226112(){
+  var values = {};
+  $('#fsForm3226112').find('input').each(function() {
+    values[this.name] = $(this).val();
+    });
+    console.log(values);
+  return values;
+}
+
+</script>
+
+<div>
+				<ul class="full">
+					<li>
+						
+			              <a href="https://www.youtube.com/ring" title="Ring Team on YouTube" target="_blank" rel="noopener noreferrer">
+			                  <img src="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/youtube.svg?4516">
+			                </a>
+			            
+			            
+			                <a href="https://www.twitter.com/ring" title="Ring Team on Twitter" target="_blank" rel="noopener noreferrer">
+			                  <img src="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/twitter.svg?4516">
+			                </a>
+			            
+			            
+			                <a href="https://www.facebook.com/ring" title="Ring Team on Facebook" target="_blank" rel="noopener noreferrer">
+			                  <img src="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/facebook.svg?4516">
+			                </a>
+			            
+			            
+			                <a href="https://www.instagram.com/ring" title="Ring Team on Instagram" target="_blank" rel="noopener noreferrer">
+			                  <img src="//cdn.shopify.com/s/files/1/2393/8647/t/2/assets/instagram.svg?4516">
+			                </a>
+			            
+					</li>
+				</ul>
+				
+					<div class="country-icon">
+						<a href="/pages/country-selector">
+							
+								<div class="flag" style="background-image: url(//cdn.shopify.com/s/files/1/2393/8647/files/flag_US_44x44.png?v=1533080827)"></div>
+							
+							<div>Change</div>
+						</a>
+					</div>
+				
+			</div>
+		</div>
+	</div>
+</footer>
+
+
+
+</div>
+	</div>
+
+	<div class="ring_over">
+	<div class="bg"></div>
+	<div class="container">
+		<div class="close">X</div>
+		<div class="content"></div>
+	</div>
+	
+</div>
+	<div id="shopify-section-affirm" class="shopify-section">
+
+
+
+
+
+
+
+
+
+
+
+</div>
+	<div id="shopify-section-kustomer" class="shopify-section">
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	<script>var token = false;</script>
+	
+	<script>
+	  (function(window, document, kustomer, undefined) {
+	    window.Kustomer = kustomer;
+	    kustomer._q = [];
+	    kustomer._i = [];
+	    kustomer.init = function(API_KEY) {
+	      function applyMethod(kustomer, methodName) {
+	        kustomer[methodName] = function() {
+	          kustomer._q.push(
+	            [methodName].concat(Array.prototype.slice.call(arguments, 0))
+	          )
+	        }
+	      }
+
+	      var methods = "init identify track describe start stop open close clear".split(' ');
+	      for (var i = 0; i < methods.length; i++) {
+	        applyMethod(kustomer, methods[i]);
+	      }
+	      kustomer._i.push(API_KEY);
+	    };
+
+	    var script = document.createElement('script');
+	    script.type = 'text/javascript';
+	    script.async = true;
+	    script.src = "https://cdn.kustomerapp.com/cw/sdk.v1.1.min.js";
+	    var element = document.getElementsByTagName("script")[0];
+	    element.parentNode.insertBefore(script, element);
+	  })(this, document, window.Kustomer || {});
+
+	  Kustomer.init('eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjViODU5NzY5ZGJhM2MxMDAxODJmNTlhYyIsInVzZXIiOiI1Yjg1OTc2OWFjYzk0ZDA5Njc5ODI2MTEiLCJvcmciOiI1OTQzZWE0OTc5N2Q4ODAwMTJmYTE2NmYiLCJvcmdOYW1lIjoicmluZyIsInVzZXJUeXBlIjoibWFjaGluZSIsInJvbGVzIjpbIm9yZy50cmFja2luZyJdLCJhdWQiOiJ1cm46Y29uc3VtZXIiLCJpc3MiOiJ1cm46YXBpIiwic3ViIjoiNWI4NTk3NjlhY2M5NGQwOTY3OTgyNjExIn0.y3cMRSibNmowwGazxb2PBvGikmcw-i89S-LRO0LVK30');
+	  if(token){
+		  Kustomer.identify(token);
+	  }
+	  Kustomer.start();
+	</script>
+	
+
+
+<script>
+	var config = { attributes: false, childList: true };
+	var observer = new MutationObserver(function () {
+		var recaptchaElem = $('script[src$="recaptcha__en.js"');
+		if (recaptchaElem.length) {
+			recaptchaElem.remove();
+			observer.disconnect();
+		}
+	});
+	observer.observe(document.head, config);
+</script>
+
+<!-- Solvvy Snippet for Kustomer -->
+<script src="https://s3-us-west-2.amazonaws.com/solvvy-ui/deflect/customization/ring/solvvy.js" async></script>
+<!-- End Solvvy Snippet for Kustomer -->
+
+
+
+</div>
+	<div id="shopify-section-ajaxify-cart" class="shopify-section">
+<script>
+	Shopify.AjaxifyCart = (function($) {
+	  
+	  // Some configuration options.
+	  // I have separated what you will never need to change from what
+	  // you might change.
+	  
+	  var _config = {
+	    
+	    // What you might want to change
+	    addToCartBtnLabel:             'Add to cart',
+	    addedToCartBtnLabel:           'Thank you!',
+	    addingToCartBtnLabel:          'Adding...',
+	    soldOutBtnLabel:               'Sold Out',
+	    howLongTillBtnReturnsToNormal: 1000, // in milliseconds.
+	    cartCountSelector:             '.cart-count, #cart-count a:first, #gocart p a, #cart .checkout em, .item-count, #CartCount',
+	    cartTotalSelector:             '#cart-price',
+	    // 'aboveForm' for top of add to cart form, 
+	    // 'belowForm' for below the add to cart form, and 
+	    // 'nextButton' for next to add to cart button.
+	    feedbackPosition:              'beforeButton',
+	    
+	    // What you will never need to change
+	    addToCartBtnSelector:          '[type="submit"]',
+	    addToCartFormSelector:         'form[action="/cart/add"]',
+	    shopifyAjaxAddURL:             '/cart/add.js',
+	    shopifyAjaxCartURL:            '/cart.js'
+	  };
+	  
+	  // We need some feedback when adding an item to the cart.
+	  // Here it is.  
+	  var _showFeedback = function(success, html, $addToCartForm) {
+	    $('.ajaxified-cart-feedback').remove();
+	    var feedback = '<p class="ajaxified-cart-feedback ' + success + '">' + html + '</p>';
+	    switch (_config.feedbackPosition) {
+	      case 'aboveForm':
+	        $addToCartForm.before(feedback);
+	        break;
+	      case 'belowForm':
+	        $addToCartForm.after(feedback);
+	        break;
+	      case 'beforeButton':
+	      	$addToCartForm.find(_config.addToCartBtnSelector).before(feedback);
+	      	break;
+	      case 'nextButton':
+	      default:
+	        $addToCartForm.find(_config.addToCartBtnSelector).after(feedback);
+	        break;   
+	    }
+	    // If you use animate.css
+	    // $('.ajaxified-cart-feedback').addClass('animated bounceInDown');
+	    $('.ajaxified-cart-feedback').slideDown();
+	  };
+	  var _setText = function($button, label) {
+	    if ($button.children().length) {
+	      $button.children().each(function() {
+	        if ($.trim($(this).text()) !== '') {
+	          $(this).text(label);
+	        }
+	      });
+	    }
+	    else {
+	      $button.val(label).text(label);
+	    }
+	  };
+	  var _init = function() {   
+	    $(document).ready(function() { 
+	      $(_config.addToCartFormSelector).submit(function(e) {
+	        e.preventDefault();
+	        var $addToCartForm = $(this);
+	        var $addToCartBtn = $addToCartForm.find(_config.addToCartBtnSelector);
+			var addToCartBtnText = $addToCartBtn.text();
+	        _setText($addToCartBtn, _config.addingToCartBtnLabel);
+	        $addToCartBtn.addClass('disabled').prop('disabled', true);
+	        // Add to cart.
+	        $.ajax({
+	          url: _config.shopifyAjaxAddURL,
+	          dataType: 'json',
+	          type: 'post',
+	          data: $addToCartForm.serialize(),
+	          success: function(itemData) {
+	            // Re-enable add to cart button.
+	            $addToCartBtn.addClass('inverted');
+	            _setText($addToCartBtn, _config.addedToCartBtnLabel);
+	            //_showFeedback('success','<i class="fa fa-check"></i> Added to cart! <a href="/cart">View cart</a>.',$addToCartForm);
+	            if($('.ajax_success').length < 1){
+		            _showFeedback('success','<div class="ajax_success"><i class="fa fa-check"></i> Added to cart!</div>',$addToCartForm);
+		            setTimeout(function(){
+	            		$('.ajax_success').stop(true,true).fadeOut(500)
+	            	},7000);
+	            }else{
+		            $('.ajax_success').stop(true,true).fadeIn(500).delay(7000).fadeOut(500);
+	            }
+	            window.setTimeout(function(){
+	              $addToCartBtn.prop('disabled', false).removeClass('disabled').removeClass('inverted');
+	              _setText($addToCartBtn,addToCartBtnText);
+	            }, _config.howLongTillBtnReturnsToNormal);
+	            // Update cart count and show cart link.
+	            $.getJSON(_config.shopifyAjaxCartURL, function(cart) {
+		            
+		            console.log(cart)
+		            
+		            $(cart.items).each(function(i,v){
+			            var found = false;
+			            $('.nav-cart .cart-items li').each(function(p,t){
+				            if($(this).find('a').attr('href').indexOf(v.variant_id) >= 0){
+					            $(this).find('.item-subtitle').text('QTY: '+v.quantity)
+					            found = true;
+				            }
+				         })
+				         if(!found){
+					         if($('.gn-cart-content .cart-items').length < 1){
+						         $('.gn-cart-content').html('<ul class="cart-items"></ul>');
+					         }
+					         
+					         $('.gn-cart-content .cart-items').prepend('<li><a class="cart-item" href="'+v.url+'"><span class="item-icon"><img src="'+v.image+'"></span><span class="item-text"><span class="item-title">'+v.product_title+'</span><span class="item-subtitle">QTY: 1</span></span></a></li>')
+					         
+				         }
+		            })
+		            
+		            $('#AddToCart-product-template').addClass('added');
+		            $('.cart-qty.header-icon.icon-shopping-cart').addClass('has-items-in-cart').attr('data-content',cart.item_count);
+		            $('.gn-cart-buttons').css({display:'flex'})
+		            $('.nav-cart.nav-dropdown--container').stop(true,true).addClass('open')
+		            setTimeout(function(){
+	            		$('.nav-cart.nav-dropdown--container').stop(true,true).removeClass('open')
+	            	},5000);
+		            
+	              if (_config.cartCountSelector && $(_config.cartCountSelector).size()) {
+	                var value = $(_config.cartCountSelector).html() || '0';
+	                $(_config.cartCountSelector).html(value.replace(/[0-9]+/,cart.item_count)).removeClass('hidden-count');
+	              }
+	              if (_config.cartTotalSelector && $(_config.cartTotalSelector).size()) {
+	                if (typeof Currency !== 'undefined' && typeof Currency.moneyFormats !== 'undefined') {
+	                  var newCurrency = '';
+	                  if ($('[name="currencies"]').size()) {
+	                    newCurrency = $('[name="currencies"]').val();
+	                  }
+	                  else if ($('#currencies span.selected').size()) {
+	                    newCurrency = $('#currencies span.selected').attr('data-currency');
+	                  }
+	                  if (newCurrency) {
+	                    $(_config.cartTotalSelector).html('<span class=money>' + Shopify.formatMoney(Currency.convert(cart.total_price, "USD", newCurrency), Currency.money_format[newCurrency]) + '</span>');
+	                  } 
+	                  else {
+	                    $(_config.cartTotalSelector).html(Shopify.formatMoney(cart.total_price, "${{amount}}"));
+	                  }
+	                }
+	                else {
+	                  $(_config.cartTotalSelector).html(Shopify.formatMoney(cart.total_price, "${{amount}}"));
+	                }
+	              };
+	            });        
+	          }, 
+	          error: function(XMLHttpRequest) {
+	            var response = eval('(' + XMLHttpRequest.responseText + ')');
+	            response = response.description;
+	            if (response.slice(0,4) === 'All ') {
+	              _showFeedback('error', response.replace('All 1 ', 'All '), $addToCartForm);
+	              $addToCartBtn.prop('disabled', false);
+	              _setText($addToCartBtn, _config.soldOutBtnLabel);
+	              $addToCartBtn.prop('disabled',true);
+	            }
+	            else {
+	              _showFeedback('error', '<i class="fa fa-warning"></i> ' + response, $addToCartForm);
+	              $addToCartBtn.prop('disabled', false).removeClass('disabled');
+	              _setText($addToCartBtn, addToCartBtnText);
+	            }
+	          }
+	        });   
+	        return false;    
+	      });
+	    });
+	  };
+	  return {
+	    init: function(params) {
+	        // Configuration
+	        params = params || {};
+	        // Merging with defaults.
+	        $.extend(_config, params);
+	        // Action
+	        $(function() {
+	          _init();
+	        });
+	    },    
+	    getConfig: function() {
+	      return _config;
+	    }
+	  }  
+	})(jQuery);
+	
+	Shopify.AjaxifyCart.init();
+	
+	</script>
+	
+	
+	
+	
+	
+	<link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet" type="text/css" media="all" />
+	
+	<style>
+	.ajaxified-cart-feedback {
+		position: absolute;
+	  display: block;
+	  line-height: 36px;
+	  font-size: 90%;
+	  vertical-align: middle;
+	}
+	.ajaxified-cart-feedback.success { 
+	  color: #1998d5;
+	}
+	.ajaxified-cart-feedback.error { 
+	  color: #f16522; 
+	} 
+	.ajaxified-cart-feedback a {
+	  border-bottom: 1px solid;
+	}
+</style>
+
+
+
+</div>
+	<div id="shopify-section-unsupported-browser" class="shopify-section">
+
+
+</div>
+
+	
+
+	
+
+  
+
+</body>
+</html>
